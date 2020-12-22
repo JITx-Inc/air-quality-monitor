@@ -16,14 +16,14 @@ $EndDescr
 $Comp
 L project_symbols:component$7 TP13
 U 1 1 00000000
-P 7700 3800
-F 0 "TP13" H 7600 3875 28  0000 L CNN
-F 1 "RCU-0C" H 7700 3800 60  0001 C CNN
-F 2 "BLE-mote:rc-package" H 7700 3800 60  0001 C CNN
-F 3 "" H 7700 3800 60  0001 C CNN
-F 4 "RCU-0C" H 7700 3800 60  0001 C CNN "MPN"
-F 5 "TE Connectivity" H 7700 3800 60  0001 C CNN "Manufacturer"
-	1    7700 3800
+P 1400 4300
+F 0 "TP13" H 1300 4375 28  0000 L CNN
+F 1 "RCU-0C" H 1400 4300 60  0001 C CNN
+F 2 "BLE-mote:rc-package" H 1400 4300 60  0001 C CNN
+F 3 "" H 1400 4300 60  0001 C CNN
+F 4 "RCU-0C" H 1400 4300 60  0001 C CNN "MPN"
+F 5 "TE Connectivity" H 1400 4300 60  0001 C CNN "Manufacturer"
+	1    1400 4300
 	0    1    1    0   
 $EndComp
 $Comp
@@ -42,14 +42,14 @@ $EndComp
 $Comp
 L project_symbols:component$7 TP11
 U 1 1 00000000
-P 7500 3800
-F 0 "TP11" H 7400 3875 28  0000 L CNN
-F 1 "RCU-0C" H 7500 3800 60  0001 C CNN
-F 2 "BLE-mote:rc-package" H 7500 3800 60  0001 C CNN
-F 3 "" H 7500 3800 60  0001 C CNN
-F 4 "RCU-0C" H 7500 3800 60  0001 C CNN "MPN"
-F 5 "TE Connectivity" H 7500 3800 60  0001 C CNN "Manufacturer"
-	1    7500 3800
+P 1200 4300
+F 0 "TP11" H 1100 4375 28  0000 L CNN
+F 1 "RCU-0C" H 1200 4300 60  0001 C CNN
+F 2 "BLE-mote:rc-package" H 1200 4300 60  0001 C CNN
+F 3 "" H 1200 4300 60  0001 C CNN
+F 4 "RCU-0C" H 1200 4300 60  0001 C CNN "MPN"
+F 5 "TE Connectivity" H 1200 4300 60  0001 C CNN "Manufacturer"
+	1    1200 4300
 	0    1    1    0   
 $EndComp
 $Comp
@@ -68,15 +68,15 @@ $EndComp
 $Comp
 L project_symbols:component$7 TP9
 U 1 1 00000000
-P 6950 3450
-F 0 "TP9" H 6850 3525 28  0000 L CNN
-F 1 "RCU-0C" H 6950 3450 60  0001 C CNN
-F 2 "BLE-mote:rc-package" H 6950 3450 60  0001 C CNN
-F 3 "" H 6950 3450 60  0001 C CNN
-F 4 "RCU-0C" H 6950 3450 60  0001 C CNN "MPN"
-F 5 "TE Connectivity" H 6950 3450 60  0001 C CNN "Manufacturer"
-	1    6950 3450
-	0    -1   -1   0   
+P 6650 3150
+F 0 "TP9" H 6550 3225 28  0000 L CNN
+F 1 "RCU-0C" H 6650 3150 60  0001 C CNN
+F 2 "BLE-mote:rc-package" H 6650 3150 60  0001 C CNN
+F 3 "" H 6650 3150 60  0001 C CNN
+F 4 "RCU-0C" H 6650 3150 60  0001 C CNN "MPN"
+F 5 "TE Connectivity" H 6650 3150 60  0001 C CNN "Manufacturer"
+	1    6650 3150
+	0    1    1    0   
 $EndComp
 $Comp
 L project_symbols:component$7 TP8
@@ -437,36 +437,6 @@ F 4 "ESP32-PICO-D4" H 2700 3100 60  0001 C CNN "MPN"
 	1    2700 3100
 	1    0    0    -1  
 $EndComp
-$Comp
-L project_symbols:my-capacitor$50 C3
-U 1 1 00000000
-P 6500 3450
-F 0 "C3" H 6600 3500 28  0000 L CNN
-F 1 "10.0μF" H 6600 3400 28  0000 L CNN
-F 2 "BLE-mote:ipc-two-pin-package$51" H 6500 3450 60  0001 C CNN
-F 3 "" H 6500 3450 60  0001 C CNN
-F 4 "10.0μF" H 6500 3450 60  0001 C CNN "Capacitance"
-F 5 "[-0.2 0.2]%" H 6500 3450 60  0001 C CNN "Tolerance"
-F 6 "EMK107BBJ106MA-T" H 6500 3450 60  0001 C CNN "MPN"
-F 7 "Taiyo Yuden" H 6500 3450 60  0001 C CNN "Manufacturer"
-	1    6500 3450
-	1    0    0    -1  
-$EndComp
-$Comp
-L project_symbols:my-capacitor$48 C2
-U 1 1 00000000
-P 5700 4000
-F 0 "C2" H 5800 4050 28  0000 L CNN
-F 1 "100.0nF" H 5800 3950 28  0000 L CNN
-F 2 "BLE-mote:ipc-two-pin-package$39" H 5700 4000 60  0001 C CNN
-F 3 "" H 5700 4000 60  0001 C CNN
-F 4 "100.0nF" H 5700 4000 60  0001 C CNN "Capacitance"
-F 5 "[-0.1 0.1]%" H 5700 4000 60  0001 C CNN "Tolerance"
-F 6 "CL05A104KA5NNNC" H 5700 4000 60  0001 C CNN "MPN"
-F 7 "Samsung Electro-Mechanics" H 5700 4000 60  0001 C CNN "Manufacturer"
-	1    5700 4000
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	850  1550 800  1550
 Wire Wire Line
@@ -496,11 +466,7 @@ Wire Wire Line
 Wire Wire Line
 	6350 3250 6500 3250
 Wire Wire Line
-	5700 4200 6050 4200
-Wire Wire Line
-	6050 4200 6050 3800
-Wire Wire Line
-	7500 4000 7700 4000
+	1200 4500 1400 4500
 Wire Wire Line
 	6150 1800 6550 1800
 Wire Wire Line
@@ -532,13 +498,13 @@ Wire Notes Line
 Wire Notes Line
 	5150 5000 5150 600 
 Wire Notes Line
-	5200 2550 9150 2550
+	5200 2550 7100 2550
 Wire Notes Line
-	5200 6500 9150 6500
+	5200 5000 7100 5000
 Wire Notes Line
-	5200 6500 5200 2550
+	5200 5000 5200 2550
 Wire Notes Line
-	9150 6500 9150 2550
+	7100 5000 7100 2550
 Wire Notes Line
 	5200 600  6750 600 
 Wire Notes Line
@@ -575,7 +541,7 @@ Text GLabel 6350 3450 2    40   BiDi ~ 0
 usb_D-
 Text GLabel 6350 3350 2    40   BiDi ~ 0
 usb_D+
-Text GLabel 5700 3550 0    40   BiDi ~ 0
+Text GLabel 5700 3300 0    40   BiDi ~ 0
 usb_VBUS
 Text GLabel 4200 1950 0    40   BiDi ~ 0
 H-I2C_scl
@@ -602,9 +568,7 @@ Connection ~ 3500 900
 Connection ~ 3500 1300
 Connection ~ 5700 3400
 Connection ~ 6500 3250
-Connection ~ 6500 4200
-Connection ~ 6050 4200
-Connection ~ 7700 4000
+Connection ~ 1400 4500
 Connection ~ 4650 1600
 Connection ~ 6550 1000
 Connection ~ 6200 1350
@@ -667,23 +631,12 @@ $EndComp
 $Comp
 L project_symbols:gnd #PWR
 U 1 1 00000000
-P 6500 4300
-F 0 "#PWR" H 6500 4300 60  0001 C CNN
-F 1 "gnd" H 6400 4150 28  0000 L CNN
-F 2 "" H 6500 4300 60  0001 C CNN
-F 3 "" H 6500 4300 60  0001 C CNN
-	1    6500 4300
-	1    0    0    -1  
-$EndComp
-$Comp
-L project_symbols:gnd #PWR
-U 1 1 00000000
-P 7700 4100
-F 0 "#PWR" H 7700 4100 60  0001 C CNN
-F 1 "gnd" H 7600 3950 28  0000 L CNN
-F 2 "" H 7700 4100 60  0001 C CNN
-F 3 "" H 7700 4100 60  0001 C CNN
-	1    7700 4100
+P 1400 4600
+F 0 "#PWR" H 1400 4600 60  0001 C CNN
+F 1 "gnd" H 1300 4450 28  0000 L CNN
+F 2 "" H 1400 4600 60  0001 C CNN
+F 3 "" H 1400 4600 60  0001 C CNN
+	1    1400 4600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -737,21 +690,9 @@ Wire Wire Line
 Wire Wire Line
 	5700 3400 5700 3300
 Wire Wire Line
-	6500 3250 6950 3250
-Wire Wire Line
-	6050 4200 6500 4200
-Wire Wire Line
-	7700 4000 7900 4000
+	6500 3250 6650 3250
 Wire Wire Line
 	5700 2100 5700 1700
-Wire Wire Line
-	5700 3400 5700 3900
-Wire Wire Line
-	5700 4100 5700 4200
-Wire Wire Line
-	6500 3250 6500 3350
-Wire Wire Line
-	6500 3550 6500 4200
 Wire Wire Line
 	3150 1200 3150 1300
 Wire Wire Line
@@ -797,13 +738,11 @@ Wire Wire Line
 Wire Wire Line
 	4200 1900 4200 2050
 Wire Wire Line
-	6950 3250 6950 3350
-Wire Wire Line
-	7500 3900 7500 4000
+	1200 4400 1200 4500
 Wire Wire Line
 	1000 3800 1000 3900
 Wire Wire Line
-	7700 3900 7700 4000
+	1400 4400 1400 4500
 Wire Wire Line
 	4050 4500 4050 4600
 Wire Wire Line
@@ -813,9 +752,7 @@ Wire Wire Line
 Wire Wire Line
 	6500 3150 6500 3250
 Wire Wire Line
-	6500 4200 6500 4300
-Wire Wire Line
-	7700 4000 7700 4100
+	1400 4500 1400 4600
 Wire Wire Line
 	4650 1500 4650 1600
 Wire Wire Line
@@ -861,6 +798,8 @@ $Comp
 L project_symbols:P3V3 #PWR?
 U 1 1 5FE4E954
 P 4400 2450
+AR Path="/5FE4E954/5FE4E954" Ref="#PWR?"  Part="1" 
+AR Path="/00000000/5FE4E954" Ref="#PWR?"  Part="1" 
 F 0 "#PWR?" H 4400 2450 60  0001 C CNN
 F 1 "P3V3" H 4300 2600 28  0000 L CNN
 F 2 "" H 4400 2450 60  0001 C CNN
@@ -963,6 +902,8 @@ $Comp
 L project_symbols:gnd #PWR?
 U 1 1 5FF4EFBF
 P 1000 3900
+AR Path="/5FF4EFBF/5FF4EFBF" Ref="#PWR?"  Part="1" 
+AR Path="/00000000/5FF4EFBF" Ref="#PWR?"  Part="1" 
 F 0 "#PWR?" H 1000 3900 60  0001 C CNN
 F 1 "gnd" H 900 3750 28  0000 L CNN
 F 2 "" H 1000 3900 60  0001 C CNN
@@ -970,4 +911,65 @@ F 3 "" H 1000 3900 60  0001 C CNN
 	1    1000 3900
 	1    0    0    -1  
 $EndComp
+Connection ~ 6650 3250
+Wire Wire Line
+	6750 3300 6750 3250
+Wire Wire Line
+	6650 3250 6750 3250
+$Comp
+L project_symbols:my-capacitor$50 C3
+U 1 1 00000000
+P 6750 3400
+F 0 "C3" H 6850 3450 28  0000 L CNN
+F 1 "10.0μF" H 6850 3350 28  0000 L CNN
+F 2 "BLE-mote:ipc-two-pin-package$51" H 6750 3400 60  0001 C CNN
+F 3 "" H 6750 3400 60  0001 C CNN
+F 4 "10.0μF" H 6750 3400 60  0001 C CNN "Capacitance"
+F 5 "[-0.2 0.2]%" H 6750 3400 60  0001 C CNN "Tolerance"
+F 6 "EMK107BBJ106MA-T" H 6750 3400 60  0001 C CNN "MPN"
+F 7 "Taiyo Yuden" H 6750 3400 60  0001 C CNN "Manufacturer"
+	1    6750 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6750 3500 6750 3950
+Wire Wire Line
+	6050 3950 6050 4050
+$Comp
+L project_symbols:gnd #PWR
+U 1 1 00000000
+P 6050 4050
+F 0 "#PWR" H 6050 4050 60  0001 C CNN
+F 1 "gnd" H 5950 3900 28  0000 L CNN
+F 2 "" H 6050 4050 60  0001 C CNN
+F 3 "" H 6050 4050 60  0001 C CNN
+	1    6050 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 6050 3950
+Wire Wire Line
+	6050 3950 6050 3800
+Wire Wire Line
+	5700 3950 6050 3950
+Wire Wire Line
+	5700 3900 5700 3950
+Wire Wire Line
+	5700 3400 5700 3700
+$Comp
+L project_symbols:my-capacitor$48 C2
+U 1 1 00000000
+P 5700 3800
+F 0 "C2" H 5800 3850 28  0000 L CNN
+F 1 "100.0nF" H 5800 3750 28  0000 L CNN
+F 2 "BLE-mote:ipc-two-pin-package$39" H 5700 3800 60  0001 C CNN
+F 3 "" H 5700 3800 60  0001 C CNN
+F 4 "100.0nF" H 5700 3800 60  0001 C CNN "Capacitance"
+F 5 "[-0.1 0.1]%" H 5700 3800 60  0001 C CNN "Tolerance"
+F 6 "CL05A104KA5NNNC" H 5700 3800 60  0001 C CNN "MPN"
+F 7 "Samsung Electro-Mechanics" H 5700 3800 60  0001 C CNN "Manufacturer"
+	1    5700 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6050 3950 6750 3950
 $EndSCHEMATC

@@ -15,13 +15,13 @@ Comment4 ""
 $EndDescr
 $Sheet
 S 800  800  1200 300 
-U 00000000
+U 60036263
 F0 "2: g-sg-0, g-sg-3" 79
 F1 "BLE-mote-2.sch" 79
 $EndSheet
 $Sheet
 S 800  1400 1200 300 
-U 00000000
+U 60036262
 F0 "3: xcvr, g-sg-2, g-sg-1" 79
 F1 "BLE-mote-3.sch" 79
 $EndSheet

@@ -15,8 +15,10 @@ Comment4 ""
 $EndDescr
 $Comp
 L project_symbols:component$7 TP13
-U 1 1 00000000
+U 1 1 60036298
 P 1400 4300
+AR Path="/60036298/60036298" Ref="TP13"  Part="1" 
+AR Path="/60036263/60036298" Ref="TP13"  Part="1" 
 F 0 "TP13" H 1300 4375 28  0000 L CNN
 F 1 "RCU-0C" H 1400 4300 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 1400 4300 60  0001 C CNN
@@ -28,8 +30,10 @@ F 5 "TE Connectivity" H 1400 4300 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP12
-U 1 1 00000000
+U 1 1 60036297
 P 1000 3700
+AR Path="/60036297/60036297" Ref="TP12"  Part="1" 
+AR Path="/60036263/60036297" Ref="TP12"  Part="1" 
 F 0 "TP12" H 900 3775 28  0000 L CNN
 F 1 "RCU-0C" H 1000 3700 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 1000 3700 60  0001 C CNN
@@ -41,8 +45,10 @@ F 5 "TE Connectivity" H 1000 3700 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP11
-U 1 1 00000000
+U 1 1 60036296
 P 1200 4300
+AR Path="/60036296/60036296" Ref="TP11"  Part="1" 
+AR Path="/60036263/60036296" Ref="TP11"  Part="1" 
 F 0 "TP11" H 1100 4375 28  0000 L CNN
 F 1 "RCU-0C" H 1200 4300 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 1200 4300 60  0001 C CNN
@@ -54,8 +60,10 @@ F 5 "TE Connectivity" H 1200 4300 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP10
-U 1 1 00000000
+U 1 1 60036295
 P 4400 1500
+AR Path="/60036295/60036295" Ref="TP10"  Part="1" 
+AR Path="/60036263/60036295" Ref="TP10"  Part="1" 
 F 0 "TP10" H 4300 1575 28  0000 L CNN
 F 1 "RCU-0C" H 4400 1500 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 4400 1500 60  0001 C CNN
@@ -67,8 +75,10 @@ F 5 "TE Connectivity" H 4400 1500 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP9
-U 1 1 00000000
+U 1 1 60036294
 P 6650 3150
+AR Path="/60036294/60036294" Ref="TP9"  Part="1" 
+AR Path="/60036263/60036294" Ref="TP9"  Part="1" 
 F 0 "TP9" H 6550 3225 28  0000 L CNN
 F 1 "RCU-0C" H 6650 3150 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 6650 3150 60  0001 C CNN
@@ -80,8 +90,10 @@ F 5 "TE Connectivity" H 6650 3150 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP8
-U 1 1 00000000
+U 1 1 60036293
 P 6600 1900
+AR Path="/60036293/60036293" Ref="TP8"  Part="1" 
+AR Path="/60036263/60036293" Ref="TP8"  Part="1" 
 F 0 "TP8" H 6500 1975 28  0000 L CNN
 F 1 "RCU-0C" H 6600 1900 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 6600 1900 60  0001 C CNN
@@ -93,8 +105,10 @@ F 5 "TE Connectivity" H 6600 1900 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP7
-U 1 1 00000000
+U 1 1 60036292
 P 6600 2000
+AR Path="/60036292/60036292" Ref="TP7"  Part="1" 
+AR Path="/60036263/60036292" Ref="TP7"  Part="1" 
 F 0 "TP7" H 6500 2075 28  0000 L CNN
 F 1 "RCU-0C" H 6600 2000 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 6600 2000 60  0001 C CNN
@@ -106,8 +120,10 @@ F 5 "TE Connectivity" H 6600 2000 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP6
-U 1 1 00000000
+U 1 1 60036291
 P 1550 800
+AR Path="/60036291/60036291" Ref="TP6"  Part="1" 
+AR Path="/60036263/60036291" Ref="TP6"  Part="1" 
 F 0 "TP6" H 1450 875 28  0000 L CNN
 F 1 "RCU-0C" H 1550 800 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 1550 800 60  0001 C CNN
@@ -119,8 +135,10 @@ F 5 "TE Connectivity" H 1550 800 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP5
-U 1 1 00000000
+U 1 1 60036286
 P 800 1450
+AR Path="/60036286/60036286" Ref="TP5"  Part="1" 
+AR Path="/60036263/60036286" Ref="TP5"  Part="1" 
 F 0 "TP5" H 700 1525 28  0000 L CNN
 F 1 "RCU-0C" H 800 1450 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 800 1450 60  0001 C CNN
@@ -132,8 +150,10 @@ F 5 "TE Connectivity" H 800 1450 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP4
-U 1 1 00000000
+U 1 1 6003628F
 P 4200 2150
+AR Path="/6003628F/6003628F" Ref="TP4"  Part="1" 
+AR Path="/60036263/6003628F" Ref="TP4"  Part="1" 
 F 0 "TP4" H 4100 2225 28  0000 L CNN
 F 1 "RCU-0C" H 4200 2150 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 4200 2150 60  0001 C CNN
@@ -145,8 +165,10 @@ F 5 "TE Connectivity" H 4200 2150 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP3
-U 1 1 00000000
+U 1 1 6003628E
 P 4650 2150
+AR Path="/6003628E/6003628E" Ref="TP3"  Part="1" 
+AR Path="/60036263/6003628E" Ref="TP3"  Part="1" 
 F 0 "TP3" H 4550 2225 28  0000 L CNN
 F 1 "RCU-0C" H 4650 2150 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 4650 2150 60  0001 C CNN
@@ -158,8 +180,10 @@ F 5 "TE Connectivity" H 4650 2150 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP2
-U 1 1 00000000
+U 1 1 6003628D
 P 1350 3450
+AR Path="/6003628D/6003628D" Ref="TP2"  Part="1" 
+AR Path="/60036263/6003628D" Ref="TP2"  Part="1" 
 F 0 "TP2" H 1250 3525 28  0000 L CNN
 F 1 "RCU-0C" H 1350 3450 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 1350 3450 60  0001 C CNN
@@ -171,8 +195,10 @@ F 5 "TE Connectivity" H 1350 3450 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$7 TP1
-U 1 1 00000000
+U 1 1 6003628C
 P 1350 3850
+AR Path="/6003628C/6003628C" Ref="TP1"  Part="1" 
+AR Path="/60036263/6003628C" Ref="TP1"  Part="1" 
 F 0 "TP1" H 1250 3925 28  0000 L CNN
 F 1 "RCU-0C" H 1350 3850 60  0001 C CNN
 F 2 "BLE-mote:rc-package" H 1350 3850 60  0001 C CNN
@@ -184,8 +210,10 @@ F 5 "TE Connectivity" H 1350 3850 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:my-resistor$101 R9
-U 1 1 00000000
+U 1 1 6003628B
 P 4400 3200
+AR Path="/6003628B/6003628B" Ref="R9"  Part="1" 
+AR Path="/60036263/6003628B" Ref="R9"  Part="1" 
 F 0 "R9" H 4500 3250 28  0000 L CNN
 F 1 "150.0Ω" H 4500 3150 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 4400 3200 60  0001 C CNN
@@ -199,8 +227,10 @@ F 7 "Panasonic Electronic Components" H 4400 3200 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$2 U6
-U 1 1 00000000
+U 1 1 6003628A
 P 4400 2750
+AR Path="/6003628A/6003628A" Ref="U6"  Part="1" 
+AR Path="/60036263/6003628A" Ref="U6"  Part="1" 
 F 0 "U6" H 4500 2950 28  0000 L CNN
 F 1 "FM-B2020RGBA-HG" H 4500 2900 28  0000 L CNN
 F 2 "BLE-mote:rgb-2020" H 4400 2750 60  0001 C CNN
@@ -212,8 +242,10 @@ F 5 "Foshan NationStar Optoelectronics" H 4400 2750 60  0001 C CNN "Manufacturer
 $EndComp
 $Comp
 L project_symbols:my-resistor$95 R7
-U 1 1 00000000
+U 1 1 60036289
 P 6550 1500
+AR Path="/60036289/60036289" Ref="R7"  Part="1" 
+AR Path="/60036263/60036289" Ref="R7"  Part="1" 
 F 0 "R7" H 6650 1550 28  0000 L CNN
 F 1 "10.0kΩ" H 6650 1450 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 6550 1500 60  0001 C CNN
@@ -227,8 +259,10 @@ F 7 "Vishay Beyschlag/Draloric/BC Components" H 6550 1500 60  0001 C CNN "Manufa
 $EndComp
 $Comp
 L project_symbols:my-resistor$93 R6
-U 1 1 00000000
+U 1 1 60036288
 P 5500 1400
+AR Path="/60036288/60036288" Ref="R6"  Part="1" 
+AR Path="/60036263/60036288" Ref="R6"  Part="1" 
 F 0 "R6" H 5600 1450 28  0000 L CNN
 F 1 "10.0kΩ" H 5600 1350 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 5500 1400 60  0001 C CNN
@@ -242,8 +276,10 @@ F 7 "Vishay Beyschlag/Draloric/BC Components" H 5500 1400 60  0001 C CNN "Manufa
 $EndComp
 $Comp
 L project_symbols:component$88 J2
-U 1 1 00000000
+U 1 1 60036287
 P 5950 1800
+AR Path="/60036287/60036287" Ref="J2"  Part="1" 
+AR Path="/60036263/60036287" Ref="J2"  Part="1" 
 F 0 "J2" H 5850 2150 28  0000 L CNN
 F 1 "20021321-00010C4LF" H 5850 2100 28  0000 L CNN
 F 2 "BLE-mote:amphenol-minitek127-pkg$89" H 5950 1800 60  0001 C CNN
@@ -255,8 +291,10 @@ F 5 "Amphenol" H 5950 1800 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:my-resistor$87 R5
-U 1 1 00000000
+U 1 1 60036290
 P 4200 1800
+AR Path="/60036290/60036290" Ref="R5"  Part="1" 
+AR Path="/60036263/60036290" Ref="R5"  Part="1" 
 F 0 "R5" H 4300 1850 28  0000 L CNN
 F 1 "8.2kΩ" H 4300 1750 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 4200 1800 60  0001 C CNN
@@ -272,6 +310,8 @@ $Comp
 L project_symbols:my-resistor$85 R4
 U 1 1 00000000
 P 4650 1800
+AR Path="/00000000/00000000" Ref="R4"  Part="1" 
+AR Path="/60036263/00000000" Ref="R4"  Part="1" 
 F 0 "R4" H 4750 1850 28  0000 L CNN
 F 1 "8.2kΩ" H 4750 1750 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 4650 1800 60  0001 C CNN
@@ -285,8 +325,10 @@ F 7 "TE Connectivity Passive Product" H 4650 1800 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:my-inductor$78 L1
-U 1 1 00000000
+U 1 1 600362A7
 P 3550 4300
+AR Path="/600362A7/600362A7" Ref="L1"  Part="1" 
+AR Path="/60036263/600362A7" Ref="L1"  Part="1" 
 F 0 "L1" H 3650 4350 28  0000 L CNN
 F 1 "2.7nH" H 3650 4250 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 3550 4300 60  0001 C CNN
@@ -300,8 +342,10 @@ F 7 "Abracon LLC" H 3550 4300 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:my-capacitor$77 C9
-U 1 1 00000000
+U 1 1 600362A6
 P 4050 4300
+AR Path="/600362A6/600362A6" Ref="C9"  Part="1" 
+AR Path="/60036263/600362A6" Ref="C9"  Part="1" 
 F 0 "C9" H 4150 4350 28  0000 L CNN
 F 1 "2.4pF" H 4150 4250 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 4050 4300 60  0001 C CNN
@@ -315,8 +359,10 @@ F 7 "AVX Corporation" H 4050 4300 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:my-capacitor$76 C8
-U 1 1 00000000
+U 1 1 600362A5
 P 3800 4100
+AR Path="/600362A5/600362A5" Ref="C8"  Part="1" 
+AR Path="/60036263/600362A5" Ref="C8"  Part="1" 
 F 0 "C8" H 3900 4150 28  0000 L CNN
 F 1 "5.6pF" H 3900 4050 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 3800 4100 60  0001 C CNN
@@ -330,10 +376,12 @@ F 7 "Samsung Electro-Mechanics" H 3800 4100 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:inverted-f-antenna-cmp U4
-U 1 1 00000000
+U 1 1 600362A4
 P 4400 4000
+AR Path="/600362A4/600362A4" Ref="U4"  Part="1" 
+AR Path="/60036263/600362A4" Ref="U4"  Part="1" 
 F 0 "U4" H 4250 4200 28  0000 L CNN
-F 1 "" H 4400 4000 60  0001 C CNN
+F 1 "~" H 4400 4000 60  0001 C CNN
 F 2 "BLE-mote:ant-2GHz4-inverted-f-geom" H 4400 4000 60  0001 C CNN
 F 3 "" H 4400 4000 60  0001 C CNN
 	1    4400 4000
@@ -341,8 +389,10 @@ F 3 "" H 4400 4000 60  0001 C CNN
 $EndComp
 $Comp
 L project_symbols:my-resistor$72 R3
-U 1 1 00000000
+U 1 1 600362A3
 P 1300 1550
+AR Path="/600362A3/600362A3" Ref="R3"  Part="1" 
+AR Path="/60036263/600362A3" Ref="R3"  Part="1" 
 F 0 "R3" H 1400 1600 28  0000 L CNN
 F 1 "10.0kΩ" H 1400 1500 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 1300 1550 60  0001 C CNN
@@ -356,8 +406,10 @@ F 7 "Vishay Beyschlag/Draloric/BC Components" H 1300 1550 60  0001 C CNN "Manufa
 $EndComp
 $Comp
 L project_symbols:my-resistor$70 R2
-U 1 1 00000000
+U 1 1 600362A2
 P 1150 2200
+AR Path="/600362A2/600362A2" Ref="R2"  Part="1" 
+AR Path="/60036263/600362A2" Ref="R2"  Part="1" 
 F 0 "R2" H 1250 2250 28  0000 L CNN
 F 1 "10.0kΩ" H 1250 2150 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 1150 2200 60  0001 C CNN
@@ -371,8 +423,10 @@ F 7 "Vishay Beyschlag/Draloric/BC Components" H 1150 2200 60  0001 C CNN "Manufa
 $EndComp
 $Comp
 L project_symbols:component$12 Q2
-U 1 1 00000000
+U 1 1 60036299
 P 1500 2100
+AR Path="/60036299/60036299" Ref="Q2"  Part="1" 
+AR Path="/60036263/60036299" Ref="Q2"  Part="1" 
 F 0 "Q2" H 1600 2150 28  0000 L CNN
 F 1 "PMBT3904,235" H 1600 2050 28  0000 L CNN
 F 2 "BLE-mote:SOT95P280X100-3N" H 1500 2100 60  0001 C CNN
@@ -384,8 +438,10 @@ F 5 "Nexperia" H 1500 2100 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$12 Q1
-U 1 1 00000000
+U 1 1 600362A0
 P 950 1650
+AR Path="/600362A0/600362A0" Ref="Q1"  Part="1" 
+AR Path="/60036263/600362A0" Ref="Q1"  Part="1" 
 F 0 "Q1" H 1050 1700 28  0000 L CNN
 F 1 "PMBT3904,235" H 1050 1600 28  0000 L CNN
 F 2 "BLE-mote:SOT95P280X100-3N" H 950 1650 60  0001 C CNN
@@ -397,8 +453,10 @@ F 5 "Nexperia" H 950 1650 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:my-capacitor$66 C7
-U 1 1 00000000
+U 1 1 6003629F
 P 3500 1100
+AR Path="/6003629F/6003629F" Ref="C7"  Part="1" 
+AR Path="/60036263/6003629F" Ref="C7"  Part="1" 
 F 0 "C7" H 3600 1150 28  0000 L CNN
 F 1 "100.0nF" H 3600 1050 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 3500 1100 60  0001 C CNN
@@ -412,8 +470,10 @@ F 7 "Samsung Electro-Mechanics" H 3500 1100 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:my-capacitor$64 C6
-U 1 1 00000000
+U 1 1 6003629E
 P 3150 1100
+AR Path="/6003629E/6003629E" Ref="C6"  Part="1" 
+AR Path="/60036263/6003629E" Ref="C6"  Part="1" 
 F 0 "C6" H 3250 1150 28  0000 L CNN
 F 1 "10.0μF" H 3250 1050 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$51" H 3150 1100 60  0001 C CNN
@@ -427,8 +487,10 @@ F 7 "Taiyo Yuden" H 3150 1100 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:component$13 U3
-U 1 1 00000000
+U 1 1 6003629D
 P 2700 3100
+AR Path="/6003629D/6003629D" Ref="U3"  Part="1" 
+AR Path="/60036263/6003629D" Ref="U3"  Part="1" 
 F 0 "U3" H 2000 4654 30  0000 L BNN
 F 1 "ESP32-PICO-D4" H 2000 4612 30  0000 L BNN
 F 2 "BLE-mote:pqfn50p700x700x104-49n" H 2700 3100 60  0001 C CNN
@@ -537,9 +599,9 @@ Text GLabel 3500 3200 2    40   BiDi ~ 0
 H-I2C_scl
 Text GLabel 3500 3300 2    40   BiDi ~ 0
 H-I2C_sda
-Text GLabel 6350 3450 2    40   BiDi ~ 0
-usb_D-
 Text GLabel 6350 3350 2    40   BiDi ~ 0
+usb_D-
+Text GLabel 6350 3450 2    40   BiDi ~ 0
 usb_D+
 Text GLabel 5700 3300 0    40   BiDi ~ 0
 usb_VBUS
@@ -574,10 +636,12 @@ Connection ~ 6550 1000
 Connection ~ 6200 1350
 Connection ~ 5700 2100
 $Comp
-L project_symbols:gnd #PWR
-U 1 1 00000000
+L project_symbols:gnd #PWR0101
+U 1 1 6003629C
 P 2500 4800
-F 0 "#PWR" H 2500 4800 60  0001 C CNN
+AR Path="/6003629C/6003629C" Ref="#PWR0101"  Part="1" 
+AR Path="/60036263/6003629C" Ref="#PWR0101"  Part="1" 
+F 0 "#PWR0101" H 2500 4800 60  0001 C CNN
 F 1 "gnd" H 2400 4650 28  0000 L CNN
 F 2 "" H 2500 4800 60  0001 C CNN
 F 3 "" H 2500 4800 60  0001 C CNN
@@ -585,10 +649,12 @@ F 3 "" H 2500 4800 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:gnd #PWR
-U 1 1 00000000
+L project_symbols:gnd #PWR0102
+U 1 1 6003629B
 P 4050 4600
-F 0 "#PWR" H 4050 4600 60  0001 C CNN
+AR Path="/6003629B/6003629B" Ref="#PWR0102"  Part="1" 
+AR Path="/60036263/6003629B" Ref="#PWR0102"  Part="1" 
+F 0 "#PWR0102" H 4050 4600 60  0001 C CNN
 F 1 "gnd" H 3950 4450 28  0000 L CNN
 F 2 "" H 4050 4600 60  0001 C CNN
 F 3 "" H 4050 4600 60  0001 C CNN
@@ -596,10 +662,12 @@ F 3 "" H 4050 4600 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:P3V3 #PWR
-U 1 1 00000000
+L project_symbols:P3V3 #PWR0103
+U 1 1 6003629A
 P 3500 800
-F 0 "#PWR" H 3500 800 60  0001 C CNN
+AR Path="/6003629A/6003629A" Ref="#PWR0103"  Part="1" 
+AR Path="/60036263/6003629A" Ref="#PWR0103"  Part="1" 
+F 0 "#PWR0103" H 3500 800 60  0001 C CNN
 F 1 "P3V3" H 3400 950 28  0000 L CNN
 F 2 "" H 3500 800 60  0001 C CNN
 F 3 "" H 3500 800 60  0001 C CNN
@@ -607,10 +675,12 @@ F 3 "" H 3500 800 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:gnd #PWR
-U 1 1 00000000
+L project_symbols:gnd #PWR0104
+U 1 1 600362A1
 P 3500 1400
-F 0 "#PWR" H 3500 1400 60  0001 C CNN
+AR Path="/600362A1/600362A1" Ref="#PWR0104"  Part="1" 
+AR Path="/60036263/600362A1" Ref="#PWR0104"  Part="1" 
+F 0 "#PWR0104" H 3500 1400 60  0001 C CNN
 F 1 "gnd" H 3400 1250 28  0000 L CNN
 F 2 "" H 3500 1400 60  0001 C CNN
 F 3 "" H 3500 1400 60  0001 C CNN
@@ -618,10 +688,12 @@ F 3 "" H 3500 1400 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:P5V0 #PWR
-U 1 1 00000000
+L project_symbols:P5V0 #PWR0105
+U 1 1 60036265
 P 6500 3150
-F 0 "#PWR" H 6500 3150 60  0001 C CNN
+AR Path="/60036265/60036265" Ref="#PWR0105"  Part="1" 
+AR Path="/60036263/60036265" Ref="#PWR0105"  Part="1" 
+F 0 "#PWR0105" H 6500 3150 60  0001 C CNN
 F 1 "P5V0" H 6400 3300 28  0000 L CNN
 F 2 "" H 6500 3150 60  0001 C CNN
 F 3 "" H 6500 3150 60  0001 C CNN
@@ -629,10 +701,12 @@ F 3 "" H 6500 3150 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:gnd #PWR
-U 1 1 00000000
+L project_symbols:gnd #PWR0106
+U 1 1 60036273
 P 1400 4600
-F 0 "#PWR" H 1400 4600 60  0001 C CNN
+AR Path="/60036273/60036273" Ref="#PWR0106"  Part="1" 
+AR Path="/60036263/60036273" Ref="#PWR0106"  Part="1" 
+F 0 "#PWR0106" H 1400 4600 60  0001 C CNN
 F 1 "gnd" H 1300 4450 28  0000 L CNN
 F 2 "" H 1400 4600 60  0001 C CNN
 F 3 "" H 1400 4600 60  0001 C CNN
@@ -640,10 +714,12 @@ F 3 "" H 1400 4600 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:P3V3 #PWR
-U 1 1 00000000
+L project_symbols:P3V3 #PWR0107
+U 1 1 60036272
 P 4650 1500
-F 0 "#PWR" H 4650 1500 60  0001 C CNN
+AR Path="/60036272/60036272" Ref="#PWR0107"  Part="1" 
+AR Path="/60036263/60036272" Ref="#PWR0107"  Part="1" 
+F 0 "#PWR0107" H 4650 1500 60  0001 C CNN
 F 1 "P3V3" H 4550 1650 28  0000 L CNN
 F 2 "" H 4650 1500 60  0001 C CNN
 F 3 "" H 4650 1500 60  0001 C CNN
@@ -651,10 +727,12 @@ F 3 "" H 4650 1500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:P3V3 #PWR
-U 1 1 00000000
+L project_symbols:P3V3 #PWR0108
+U 1 1 60036271
 P 6550 900
-F 0 "#PWR" H 6550 900 60  0001 C CNN
+AR Path="/60036271/60036271" Ref="#PWR0108"  Part="1" 
+AR Path="/60036263/60036271" Ref="#PWR0108"  Part="1" 
+F 0 "#PWR0108" H 6550 900 60  0001 C CNN
 F 1 "P3V3" H 6450 1050 28  0000 L CNN
 F 2 "" H 6550 900 60  0001 C CNN
 F 3 "" H 6550 900 60  0001 C CNN
@@ -662,10 +740,12 @@ F 3 "" H 6550 900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:P5V0 #PWR
-U 1 1 00000000
+L project_symbols:P5V0 #PWR0109
+U 1 1 60036270
 P 6200 1250
-F 0 "#PWR" H 6200 1250 60  0001 C CNN
+AR Path="/60036270/60036270" Ref="#PWR0109"  Part="1" 
+AR Path="/60036263/60036270" Ref="#PWR0109"  Part="1" 
+F 0 "#PWR0109" H 6200 1250 60  0001 C CNN
 F 1 "P5V0" H 6100 1400 28  0000 L CNN
 F 2 "" H 6200 1250 60  0001 C CNN
 F 3 "" H 6200 1250 60  0001 C CNN
@@ -673,10 +753,12 @@ F 3 "" H 6200 1250 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L project_symbols:gnd #PWR
-U 1 1 00000000
+L project_symbols:gnd #PWR0110
+U 1 1 6003626F
 P 5700 2200
-F 0 "#PWR" H 5700 2200 60  0001 C CNN
+AR Path="/6003626F/6003626F" Ref="#PWR0110"  Part="1" 
+AR Path="/60036263/6003626F" Ref="#PWR0110"  Part="1" 
+F 0 "#PWR0110" H 5700 2200 60  0001 C CNN
 F 1 "gnd" H 5600 2050 28  0000 L CNN
 F 2 "" H 5700 2200 60  0001 C CNN
 F 3 "" H 5700 2200 60  0001 C CNN
@@ -781,8 +863,10 @@ Wire Wire Line
 	4050 4100 4200 4100
 $Comp
 L project_symbols:component$21 U1
-U 1 1 00000000
+U 1 1 6003626E
 P 6050 3350
+AR Path="/6003626E/6003626E" Ref="U1"  Part="1" 
+AR Path="/60036263/6003626E" Ref="U1"  Part="1" 
 F 0 "U1" H 5850 3754 30  0000 L BNN
 F 1 "TPD3S014DBVR" H 5850 3712 30  0000 L BNN
 F 2 "BLE-mote:SOT95P280X145-6N" H 6050 3350 60  0001 C CNN
@@ -799,8 +883,9 @@ L project_symbols:P3V3 #PWR?
 U 1 1 5FE4E954
 P 4400 2450
 AR Path="/5FE4E954/5FE4E954" Ref="#PWR?"  Part="1" 
-AR Path="/00000000/5FE4E954" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 4400 2450 60  0001 C CNN
+AR Path="/00000000/5FE4E954" Ref="#PWR0111"  Part="1" 
+AR Path="/60036263/5FE4E954" Ref="#PWR0111"  Part="1" 
+F 0 "#PWR0111" H 4400 2450 60  0001 C CNN
 F 1 "P3V3" H 4300 2600 28  0000 L CNN
 F 2 "" H 4400 2450 60  0001 C CNN
 F 3 "" H 4400 2450 60  0001 C CNN
@@ -811,8 +896,10 @@ Wire Wire Line
 	4400 2450 4400 2550
 $Comp
 L project_symbols:my-resistor$103 R10
-U 1 1 00000000
+U 1 1 6003626D
 P 4700 3200
+AR Path="/6003626D/6003626D" Ref="R10"  Part="1" 
+AR Path="/60036263/6003626D" Ref="R10"  Part="1" 
 F 0 "R10" H 4800 3250 28  0000 L CNN
 F 1 "41.2Ω" H 4800 3150 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 4700 3200 60  0001 C CNN
@@ -826,8 +913,10 @@ F 7 "Panasonic Electronic Components" H 4700 3200 60  0001 C CNN "Manufacturer"
 $EndComp
 $Comp
 L project_symbols:my-resistor$99 R8
-U 1 1 00000000
+U 1 1 6003626C
 P 4100 3200
+AR Path="/6003626C/6003626C" Ref="R8"  Part="1" 
+AR Path="/60036263/6003626C" Ref="R8"  Part="1" 
 F 0 "R8" H 4200 3250 28  0000 L CNN
 F 1 "150.0Ω" H 4200 3150 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 4100 3200 60  0001 C CNN
@@ -903,8 +992,9 @@ L project_symbols:gnd #PWR?
 U 1 1 5FF4EFBF
 P 1000 3900
 AR Path="/5FF4EFBF/5FF4EFBF" Ref="#PWR?"  Part="1" 
-AR Path="/00000000/5FF4EFBF" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 1000 3900 60  0001 C CNN
+AR Path="/00000000/5FF4EFBF" Ref="#PWR0112"  Part="1" 
+AR Path="/60036263/5FF4EFBF" Ref="#PWR0112"  Part="1" 
+F 0 "#PWR0112" H 1000 3900 60  0001 C CNN
 F 1 "gnd" H 900 3750 28  0000 L CNN
 F 2 "" H 1000 3900 60  0001 C CNN
 F 3 "" H 1000 3900 60  0001 C CNN
@@ -918,8 +1008,10 @@ Wire Wire Line
 	6650 3250 6750 3250
 $Comp
 L project_symbols:my-capacitor$50 C3
-U 1 1 00000000
+U 1 1 6003626B
 P 6750 3400
+AR Path="/6003626B/6003626B" Ref="C3"  Part="1" 
+AR Path="/60036263/6003626B" Ref="C3"  Part="1" 
 F 0 "C3" H 6850 3450 28  0000 L CNN
 F 1 "10.0μF" H 6850 3350 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$51" H 6750 3400 60  0001 C CNN
@@ -936,10 +1028,12 @@ Wire Wire Line
 Wire Wire Line
 	6050 3950 6050 4050
 $Comp
-L project_symbols:gnd #PWR
-U 1 1 00000000
+L project_symbols:gnd #PWR0113
+U 1 1 6003626A
 P 6050 4050
-F 0 "#PWR" H 6050 4050 60  0001 C CNN
+AR Path="/6003626A/6003626A" Ref="#PWR0113"  Part="1" 
+AR Path="/60036263/6003626A" Ref="#PWR0113"  Part="1" 
+F 0 "#PWR0113" H 6050 4050 60  0001 C CNN
 F 1 "gnd" H 5950 3900 28  0000 L CNN
 F 2 "" H 6050 4050 60  0001 C CNN
 F 3 "" H 6050 4050 60  0001 C CNN
@@ -957,8 +1051,10 @@ Wire Wire Line
 	5700 3400 5700 3700
 $Comp
 L project_symbols:my-capacitor$48 C2
-U 1 1 00000000
+U 1 1 60036269
 P 5700 3800
+AR Path="/60036269/60036269" Ref="C2"  Part="1" 
+AR Path="/60036263/60036269" Ref="C2"  Part="1" 
 F 0 "C2" H 5800 3850 28  0000 L CNN
 F 1 "100.0nF" H 5800 3750 28  0000 L CNN
 F 2 "BLE-mote:ipc-two-pin-package$39" H 5700 3800 60  0001 C CNN

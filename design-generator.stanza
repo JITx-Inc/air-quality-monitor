@@ -128,4 +128,4 @@ export-kicad("BLE-mote", [`place => true
                           `paper => ANSI-A4
                           `fresh => true 
                           `schematic-version => 4
-                          `param-configs => [`sketch]] )
+                          `param-configs => [`groups]] )

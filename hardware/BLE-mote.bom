@@ -74,6 +74,7 @@ The instances proc.cap$63 (C6), clamp$44.cap$49 (C3) were assigned part EMK107BB
 The instances ldo.ps (U2) were assigned part AP2112K-3.3TRG1, which is available from the following vendors. Please indicate the preferred vendor in the selection document.
   Digi-Key for $0.47 (SKU = AP2112K-3.3TRG1DICT-ND)
   Digi-Key for $0.47 (SKU = AP2112K-3.3TRG1DIDKR-ND)
+  Mouser for $0.47 (SKU = 621-AP2112K-3.3TRG1)
 The instances xcvr$119.cap$125 (C12) were assigned part 0402YD475MAT2A, which is available from the following vendors. Please indicate the preferred vendor in the selection document.
   Digi-Key for $0.29 (SKU = 478-10788-1-ND)
   Digi-Key for $0.29 (SKU = 478-10788-6-ND)

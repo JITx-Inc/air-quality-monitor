@@ -14,21 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L project_symbols:component$7 TP13
-U 1 1 60036298
-P 1400 4300
-AR Path="/60036298/60036298" Ref="TP13"  Part="1" 
-AR Path="/60036263/60036298" Ref="TP13"  Part="1" 
-F 0 "TP13" H 1300 4375 28  0000 L CNN
-F 1 "RCU-0C" H 1400 4300 60  0001 C CNN
-F 2 "BLE-mote:rc-package" H 1400 4300 60  0001 C CNN
-F 3 "" H 1400 4300 60  0001 C CNN
-F 4 "RCU-0C" H 1400 4300 60  0001 C CNN "MPN"
-F 5 "TE Connectivity" H 1400 4300 60  0001 C CNN "Manufacturer"
-	1    1400 4300
-	0    1    1    0   
-$EndComp
-$Comp
 L project_symbols:component$7 TP12
 U 1 1 60036297
 P 1000 3700
@@ -46,16 +31,16 @@ $EndComp
 $Comp
 L project_symbols:component$7 TP11
 U 1 1 60036296
-P 1200 4300
+P 1400 4300
 AR Path="/60036296/60036296" Ref="TP11"  Part="1" 
 AR Path="/60036263/60036296" Ref="TP11"  Part="1" 
-F 0 "TP11" H 1100 4375 28  0000 L CNN
-F 1 "RCU-0C" H 1200 4300 60  0001 C CNN
-F 2 "BLE-mote:rc-package" H 1200 4300 60  0001 C CNN
-F 3 "" H 1200 4300 60  0001 C CNN
-F 4 "RCU-0C" H 1200 4300 60  0001 C CNN "MPN"
-F 5 "TE Connectivity" H 1200 4300 60  0001 C CNN "Manufacturer"
-	1    1200 4300
+F 0 "TP11" H 1300 4375 28  0000 L CNN
+F 1 "RCU-0C" H 1400 4300 60  0001 C CNN
+F 2 "BLE-mote:rc-package" H 1400 4300 60  0001 C CNN
+F 3 "" H 1400 4300 60  0001 C CNN
+F 4 "RCU-0C" H 1400 4300 60  0001 C CNN "MPN"
+F 5 "TE Connectivity" H 1400 4300 60  0001 C CNN "Manufacturer"
+	1    1400 4300
 	0    1    1    0   
 $EndComp
 $Comp
@@ -528,8 +513,6 @@ Wire Wire Line
 Wire Wire Line
 	6350 3250 6500 3250
 Wire Wire Line
-	1200 4500 1400 4500
-Wire Wire Line
 	6150 1800 6550 1800
 Wire Wire Line
 	5500 1000 6550 1000
@@ -630,7 +613,6 @@ Connection ~ 3500 900
 Connection ~ 3500 1300
 Connection ~ 5700 3400
 Connection ~ 6500 3250
-Connection ~ 1400 4500
 Connection ~ 4650 1600
 Connection ~ 6550 1000
 Connection ~ 6200 1350
@@ -820,11 +802,7 @@ Wire Wire Line
 Wire Wire Line
 	4200 1900 4200 2050
 Wire Wire Line
-	1200 4400 1200 4500
-Wire Wire Line
 	1000 3800 1000 3900
-Wire Wire Line
-	1400 4400 1400 4500
 Wire Wire Line
 	4050 4500 4050 4600
 Wire Wire Line
@@ -833,8 +811,6 @@ Wire Wire Line
 	3500 1300 3500 1400
 Wire Wire Line
 	6500 3150 6500 3250
-Wire Wire Line
-	1400 4500 1400 4600
 Wire Wire Line
 	4650 1500 4650 1600
 Wire Wire Line
@@ -1068,4 +1044,6 @@ F 7 "Samsung Electro-Mechanics" H 5700 3800 60  0001 C CNN "Manufacturer"
 $EndComp
 Wire Wire Line
 	6050 3950 6750 3950
+Wire Wire Line
+	1400 4400 1400 4600
 $EndSCHEMATC

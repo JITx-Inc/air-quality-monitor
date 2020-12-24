@@ -16,16 +16,16 @@ $EndDescr
 $Comp
 L project_symbols:component$7 TP12
 U 1 1 60036297
-P 1000 3700
+P 1150 4300
 AR Path="/60036297/60036297" Ref="TP12"  Part="1" 
 AR Path="/60036263/60036297" Ref="TP12"  Part="1" 
-F 0 "TP12" H 900 3775 28  0000 L CNN
-F 1 "RCU-0C" H 1000 3700 60  0001 C CNN
-F 2 "BLE-mote:rc-package" H 1000 3700 60  0001 C CNN
-F 3 "" H 1000 3700 60  0001 C CNN
-F 4 "RCU-0C" H 1000 3700 60  0001 C CNN "MPN"
-F 5 "TE Connectivity" H 1000 3700 60  0001 C CNN "Manufacturer"
-	1    1000 3700
+F 0 "TP12" H 1050 4375 28  0000 L CNN
+F 1 "RCU-0C" H 1150 4300 60  0001 C CNN
+F 2 "BLE-mote:rc-package" H 1150 4300 60  0001 C CNN
+F 3 "" H 1150 4300 60  0001 C CNN
+F 4 "RCU-0C" H 1150 4300 60  0001 C CNN "MPN"
+F 5 "TE Connectivity" H 1150 4300 60  0001 C CNN "Manufacturer"
+	1    1150 4300
 	0    1    1    0   
 $EndComp
 $Comp
@@ -166,31 +166,31 @@ $EndComp
 $Comp
 L project_symbols:component$7 TP2
 U 1 1 6003628D
-P 1350 3450
+P 1250 3450
 AR Path="/6003628D/6003628D" Ref="TP2"  Part="1" 
 AR Path="/60036263/6003628D" Ref="TP2"  Part="1" 
-F 0 "TP2" H 1250 3525 28  0000 L CNN
-F 1 "RCU-0C" H 1350 3450 60  0001 C CNN
-F 2 "BLE-mote:rc-package" H 1350 3450 60  0001 C CNN
-F 3 "" H 1350 3450 60  0001 C CNN
-F 4 "RCU-0C" H 1350 3450 60  0001 C CNN "MPN"
-F 5 "TE Connectivity" H 1350 3450 60  0001 C CNN "Manufacturer"
-	1    1350 3450
+F 0 "TP2" H 1150 3525 28  0000 L CNN
+F 1 "RCU-0C" H 1250 3450 60  0001 C CNN
+F 2 "BLE-mote:rc-package" H 1250 3450 60  0001 C CNN
+F 3 "" H 1250 3450 60  0001 C CNN
+F 4 "RCU-0C" H 1250 3450 60  0001 C CNN "MPN"
+F 5 "TE Connectivity" H 1250 3450 60  0001 C CNN "Manufacturer"
+	1    1250 3450
 	1    0    0    -1  
 $EndComp
 $Comp
 L project_symbols:component$7 TP1
 U 1 1 6003628C
-P 1350 3850
+P 1250 3850
 AR Path="/6003628C/6003628C" Ref="TP1"  Part="1" 
 AR Path="/60036263/6003628C" Ref="TP1"  Part="1" 
-F 0 "TP1" H 1250 3925 28  0000 L CNN
-F 1 "RCU-0C" H 1350 3850 60  0001 C CNN
-F 2 "BLE-mote:rc-package" H 1350 3850 60  0001 C CNN
-F 3 "" H 1350 3850 60  0001 C CNN
-F 4 "RCU-0C" H 1350 3850 60  0001 C CNN "MPN"
-F 5 "TE Connectivity" H 1350 3850 60  0001 C CNN "Manufacturer"
-	1    1350 3850
+F 0 "TP1" H 1150 3925 28  0000 L CNN
+F 1 "RCU-0C" H 1250 3850 60  0001 C CNN
+F 2 "BLE-mote:rc-package" H 1250 3850 60  0001 C CNN
+F 3 "" H 1250 3850 60  0001 C CNN
+F 4 "RCU-0C" H 1250 3850 60  0001 C CNN "MPN"
+F 5 "TE Connectivity" H 1250 3850 60  0001 C CNN "Manufacturer"
+	1    1250 3850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -566,21 +566,21 @@ Text Label 1900 2100 2    40   ~ 0
 net_proc_en
 Text Label 800  1550 2    40   ~ 0
 net_proc_en
-Text GLabel 1600 3600 0    40   BiDi ~ 0
+Text GLabel 1500 3600 0    40   BiDi ~ 0
 proc_ESP-RX
-Text GLabel 1600 3700 0    40   BiDi ~ 0
+Text GLabel 1500 3700 0    40   BiDi ~ 0
 proc_ESP-TX
-Text Label 3500 3100 0    40   ~ 0
+Text Label 1900 3000 2    40   ~ 0
 PC-RX
-Text Label 3500 3000 0    40   ~ 0
+Text Label 1900 2900 2    40   ~ 0
 PC-TX
-Text Label 1900 2500 2    40   ~ 0
+Text Label 1900 3300 2    40   ~ 0
 PC-SET
-Text Label 1900 2400 2    40   ~ 0
+Text Label 1900 3200 2    40   ~ 0
 PC-RESET
-Text GLabel 3500 3200 2    40   BiDi ~ 0
+Text GLabel 1900 3400 0    40   BiDi ~ 0
 H-I2C_scl
-Text GLabel 3500 3300 2    40   BiDi ~ 0
+Text GLabel 1900 3500 0    40   BiDi ~ 0
 H-I2C_sda
 Text GLabel 6350 3350 2    40   BiDi ~ 0
 usb_D-
@@ -802,7 +802,7 @@ Wire Wire Line
 Wire Wire Line
 	4200 1900 4200 2050
 Wire Wire Line
-	1000 3800 1000 3900
+	1150 4400 1150 4500
 Wire Wire Line
 	4050 4500 4050 4600
 Wire Wire Line
@@ -946,17 +946,17 @@ Wire Wire Line
 Wire Wire Line
 	1600 2200 1900 2200
 Wire Wire Line
-	1450 3450 1600 3450
+	1350 3450 1500 3450
 Wire Wire Line
-	1600 3450 1600 3600
+	1500 3450 1500 3600
 Wire Wire Line
-	1600 3600 1900 3600
+	1500 3600 1900 3600
 Wire Wire Line
-	1900 3700 1600 3700
+	1900 3700 1500 3700
 Wire Wire Line
-	1600 3700 1600 3850
+	1500 3700 1500 3850
 Wire Wire Line
-	1600 3850 1450 3850
+	1500 3850 1350 3850
 Wire Wire Line
 	6150 1900 6500 1900
 Wire Wire Line
@@ -966,15 +966,15 @@ Wire Wire Line
 $Comp
 L project_symbols:gnd #PWR?
 U 1 1 5FF4EFBF
-P 1000 3900
+P 1150 4500
 AR Path="/5FF4EFBF/5FF4EFBF" Ref="#PWR?"  Part="1" 
 AR Path="/00000000/5FF4EFBF" Ref="#PWR0112"  Part="1" 
 AR Path="/60036263/5FF4EFBF" Ref="#PWR0112"  Part="1" 
-F 0 "#PWR0112" H 1000 3900 60  0001 C CNN
-F 1 "gnd" H 900 3750 28  0000 L CNN
-F 2 "" H 1000 3900 60  0001 C CNN
-F 3 "" H 1000 3900 60  0001 C CNN
-	1    1000 3900
+F 0 "#PWR0112" H 1150 4500 60  0001 C CNN
+F 1 "gnd" H 1050 4350 28  0000 L CNN
+F 2 "" H 1150 4500 60  0001 C CNN
+F 3 "" H 1150 4500 60  0001 C CNN
+	1    1150 4500
 	1    0    0    -1  
 $EndComp
 Connection ~ 6650 3250

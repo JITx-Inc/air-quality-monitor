@@ -1,0 +1,2542 @@
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 5.0
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 5.0
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L609883/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L609883/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 5.0
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 5.0
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 5.0
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L610048/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L610048/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 5.0
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L610720/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L610720/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L610721/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L610721/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L610723/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L610723/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L610724/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L610724/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L611374/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L611374/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L611375/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L611375/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+  open-components-database/utils/checks.stanza:136.4: Assertion 'p-props is GenericPin' passed.
+    p-props = [GenericPin object]
+  open-components-database/utils/checks.stanza:137.4: Assertion 'contains?(max-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)))' passed.
+    max-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 137, 43), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L611607/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L611607/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 3.3
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:23.10: Check 'generic-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:132.7.
+
+open-components-database/utils/checks.stanza:25.10: Check 'power-pin' passed.
+  Defined at open-components-database/utils/checks.stanza:140.7.
+  open-components-database/utils/checks.stanza:141.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 141, 9), p, ($quote power-pin))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 141, 9) = open-components-database/utils/checks.stanza:141.9
+    p = Pin(L611809/D609550(relative))
+  open-components-database/utils/checks.stanza:143.2: Assertion 'p-props is PowerPin' passed.
+    p-props = [PowerPin object]
+  open-components-database/utils/checks.stanza:145.2: Assertion 'jitx/client/has-property?(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 145, 9), p, ($quote rail-voltage))' passed.
+    jitx/commands/JITX-CLIENT = [StanzaJITXClient object]
+    core/FileInfo(open-components-database/utils/checks.stanza, 145, 9) = open-components-database/utils/checks.stanza:145.9
+    p = Pin(L611809/D609550(relative))
+  open-components-database/utils/checks.stanza:147.2: Assertion 'contains?(recommended-voltage(p-props), jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)))' passed.
+    recommended-voltage(p-props) = [Interval object]
+    jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 147, 49), p, ($quote rail-voltage)) = 5.0
+
+open-components-database/utils/checks.stanza:28.4: Check 'io' passed.
+  Defined at open-components-database/utils/checks.stanza:39.7.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:102.4: Assertion passed.
+  open-components-database/utils/checks.stanza:103.4: Assertion 'min(voh(driver(o))) > vih' passed.
+    min(voh(driver(o))) = 2.64
+    vih = 2.6
+    Margin: 2.64 - 2.6 = 0.04
+  open-components-database/utils/checks.stanza:104.4: Assertion 'max(vol(driver(o))) < vil' passed.
+    max(vol(driver(o))) = 0.33
+    vil = 0.8
+    Margin: 0.8 - 0.33 = 0.47
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:78.16: Assertion 'i < iol(o)' passed.
+    i = 0.000402439024390244
+    iol(o) = 0.028
+    Margin: 0.028 - 0.000402439024390244 = 0.0275975609756098
+  open-components-database/utils/checks.stanza:84.20: Assertion 'rail-voltage > vih-v' passed.
+    rail-voltage = 3.3
+    vih-v = 2.475
+    Margin: 3.3 - 2.475 = 0.825
+  open-components-database/utils/checks.stanza:86.20: Assertion 'contains?(max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 86, 49), p, ($quote generic-pin))), rail-voltage)' passed.
+    max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 86, 49), p, ($quote generic-pin))) = [Interval object]
+    rail-voltage = 3.3
+  open-components-database/utils/checks.stanza:86.20: Assertion 'contains?(max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 86, 49), p, ($quote generic-pin))), rail-voltage)' passed.
+    max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 86, 49), p, ($quote generic-pin))) = [Interval object]
+    rail-voltage = 3.3
+  open-components-database/utils/checks.stanza:87.10: Assertion 'is-net-ok?' passed.
+  open-components-database/utils/checks.stanza:78.16: Assertion 'i < iol(o)' passed.
+    i = 0.000402439024390244
+    iol(o) = 0.028
+    Margin: 0.028 - 0.000402439024390244 = 0.0275975609756098
+  open-components-database/utils/checks.stanza:84.20: Assertion 'rail-voltage > vih-v' passed.
+    rail-voltage = 3.3
+    vih-v = 2.475
+    Margin: 3.3 - 2.475 = 0.825
+  open-components-database/utils/checks.stanza:86.20: Assertion 'contains?(max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 86, 49), p, ($quote generic-pin))), rail-voltage)' passed.
+    max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 86, 49), p, ($quote generic-pin))) = [Interval object]
+    rail-voltage = 3.3
+  open-components-database/utils/checks.stanza:86.20: Assertion 'contains?(max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 86, 49), p, ($quote generic-pin))), rail-voltage)' passed.
+    max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 86, 49), p, ($quote generic-pin))) = [Interval object]
+    rail-voltage = 3.3
+  open-components-database/utils/checks.stanza:87.10: Assertion 'is-net-ok?' passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:102.4: Assertion passed.
+  open-components-database/utils/checks.stanza:103.4: Assertion 'min(voh(driver(o))) > vih' passed.
+    min(voh(driver(o))) = 2.64
+    vih = 2.6
+    Margin: 2.64 - 2.6 = 0.04
+  open-components-database/utils/checks.stanza:104.4: Assertion 'max(vol(driver(o))) < vil' passed.
+    max(vol(driver(o))) = 0.33
+    vil = 0.8
+    Margin: 0.8 - 0.33 = 0.47
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:102.4: Assertion passed.
+  open-components-database/utils/checks.stanza:103.4: Assertion 'min(voh(driver(o))) > vih' passed.
+    min(voh(driver(o))) = 2.64
+    vih = 2.6
+    Margin: 2.64 - 2.6 = 0.04
+  open-components-database/utils/checks.stanza:104.4: Assertion 'max(vol(driver(o))) < vil' passed.
+    max(vol(driver(o))) = 0.33
+    vil = 0.8
+    Margin: 0.8 - 0.33 = 0.47
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:102.4: Assertion passed.
+  open-components-database/utils/checks.stanza:103.4: Assertion 'min(voh(driver(o))) > vih' passed.
+    min(voh(driver(o))) = 2.64
+    vih = 2.31
+    Margin: 2.64 - 2.31 = 0.330000000000001
+  open-components-database/utils/checks.stanza:104.4: Assertion 'max(vol(driver(o))) < vil' passed.
+    max(vol(driver(o))) = 0.33
+    vil = 0.6
+    Margin: 0.6 - 0.33 = 0.27
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:102.4: Assertion passed.
+  open-components-database/utils/checks.stanza:103.4: Assertion 'min(voh(driver(o))) > vih' passed.
+    min(voh(driver(o))) = 3.1
+    vih = 2.475
+    Margin: 3.1 - 2.475 = 0.625
+  open-components-database/utils/checks.stanza:104.4: Assertion 'max(vol(driver(o))) < vil' passed.
+    max(vol(driver(o))) = 0.4
+    vil = 0.825
+    Margin: 0.825 - 0.4 = 0.425
+  open-components-database/utils/checks.stanza:106.6: Assertion 'contains?(max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 106, 35), in-p, ($quote generic-pin))), voh(driver(o)))' passed.
+    max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 106, 35), in-p, ($quote generic-pin))) = [Interval object]
+    voh(driver(o)) = [Interval object]
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+  open-components-database/utils/checks.stanza:102.4: Assertion passed.
+  open-components-database/utils/checks.stanza:103.4: Assertion 'min(voh(driver(o))) > vih' passed.
+    min(voh(driver(o))) = 2.6
+    vih = 2.475
+    Margin: 2.6 - 2.475 = 0.125
+  open-components-database/utils/checks.stanza:104.4: Assertion 'max(vol(driver(o))) < vil' passed.
+    max(vol(driver(o))) = 0.5
+    vil = 0.825
+    Margin: 0.825 - 0.5 = 0.325
+  open-components-database/utils/checks.stanza:106.6: Assertion 'contains?(max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 106, 35), in-p, ($quote generic-pin))), voh(driver(o)))' passed.
+    max-voltage(jitx/client/get-property(jitx/commands/JITX-CLIENT, core/FileInfo(open-components-database/utils/checks.stanza, 106, 35), in-p, ($quote generic-pin))) = [Interval object]
+    voh(driver(o)) = [Interval object]
+  open-components-database/utils/checks.stanza:98.2: Assertion passed.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.25
+    min-copper-copper-space = 0.2
+    Margin: 0.25 - 0.2 = 0.0499999999999999
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.4
+    min-copper-width = 0.2
+    Margin: 0.4 - 0.2 = 0.2
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' failed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' failed.
+    min-space(copper) = 0.0
+    min-copper-copper-space = 0.2
+    Margin: 0.0 - 0.2 = -0.2
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.73
+    min-copper-width = 0.2
+    Margin: 0.73 - 0.2 = 0.53
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.35
+    min-copper-copper-space = 0.2
+    Margin: 0.35 - 0.2 = 0.15
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.35
+    min-copper-copper-space = 0.2
+    Margin: 0.35 - 0.2 = 0.15
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' failed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' failed.
+    min-space(copper) = 0.15
+    min-copper-copper-space = 0.2
+    Margin: 0.15 - 0.2 = -0.0500000000000001
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.35
+    min-copper-width = 0.2
+    Margin: 0.35 - 0.2 = 0.15
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.3
+    min-copper-copper-space = 0.2
+    Margin: 1.3 - 0.2 = 1.1
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.3
+    min-copper-copper-space = 0.2
+    Margin: 1.3 - 0.2 = 1.1
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.4
+    min-copper-copper-space = 0.2
+    Margin: 1.4 - 0.2 = 1.2
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.5
+    min-copper-width = 0.2
+    Margin: 0.5 - 0.2 = 0.3
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.25
+    min-copper-copper-space = 0.2
+    Margin: 0.25 - 0.2 = 0.0499999999999995
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.25
+    min-copper-width = 0.2
+    Margin: 0.25 - 0.2 = 0.05
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.255
+    min-copper-copper-space = 0.2
+    Margin: 0.255 - 0.2 = 0.055
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.42
+    min-copper-width = 0.2
+    Margin: 0.42 - 0.2 = 0.22
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.51
+    min-copper-copper-space = 0.2
+    Margin: 0.51 - 0.2 = 0.31
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.76
+    min-copper-width = 0.2
+    Margin: 0.76 - 0.2 = 0.56
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.4
+    min-copper-copper-space = 0.2
+    Margin: 0.4 - 0.2 = 0.2
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.7
+    min-copper-width = 0.2
+    Margin: 0.7 - 0.2 = 0.5
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.79769313486232e+308
+    min-copper-copper-space = 0.2
+    Margin: 1.79769313486232e+308 - 0.2 = 1.79769313486232e+308
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 1.1
+    min-copper-width = 0.2
+    Margin: 1.1 - 0.2 = 0.9
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.25
+    min-copper-copper-space = 0.2
+    Margin: 0.25 - 0.2 = 0.0499999999999999
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.4
+    min-copper-width = 0.2
+    Margin: 0.4 - 0.2 = 0.2
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' failed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' failed.
+    min-space(copper) = 0.0
+    min-copper-copper-space = 0.2
+    Margin: 0.0 - 0.2 = -0.2
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.73
+    min-copper-width = 0.2
+    Margin: 0.73 - 0.2 = 0.53
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.35
+    min-copper-copper-space = 0.2
+    Margin: 0.35 - 0.2 = 0.15
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.35
+    min-copper-copper-space = 0.2
+    Margin: 0.35 - 0.2 = 0.15
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' failed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' failed.
+    min-space(copper) = 0.15
+    min-copper-copper-space = 0.2
+    Margin: 0.15 - 0.2 = -0.0500000000000001
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.35
+    min-copper-width = 0.2
+    Margin: 0.35 - 0.2 = 0.15
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.3
+    min-copper-copper-space = 0.2
+    Margin: 1.3 - 0.2 = 1.1
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.3
+    min-copper-copper-space = 0.2
+    Margin: 1.3 - 0.2 = 1.1
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.3
+    min-copper-copper-space = 0.2
+    Margin: 1.3 - 0.2 = 1.1
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.3
+    min-copper-copper-space = 0.2
+    Margin: 1.3 - 0.2 = 1.1
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.6
+    min-copper-width = 0.2
+    Margin: 0.6 - 0.2 = 0.4
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 1.4
+    min-copper-copper-space = 0.2
+    Margin: 1.4 - 0.2 = 1.2
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.5
+    min-copper-width = 0.2
+    Margin: 0.5 - 0.2 = 0.3
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.25
+    min-copper-copper-space = 0.2
+    Margin: 0.25 - 0.2 = 0.0499999999999995
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.25
+    min-copper-width = 0.2
+    Margin: 0.25 - 0.2 = 0.05
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.255
+    min-copper-copper-space = 0.2
+    Margin: 0.255 - 0.2 = 0.055
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.42
+    min-copper-width = 0.2
+    Margin: 0.42 - 0.2 = 0.22
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.51
+    min-copper-copper-space = 0.2
+    Margin: 0.51 - 0.2 = 0.31
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.76
+    min-copper-width = 0.2
+    Margin: 0.76 - 0.2 = 0.56
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+  open-components-database/utils/checks.stanza:312.4: Assertion 'min-space(copper) >= min-copper-copper-space' passed.
+    min-space(copper) = 0.39
+    min-copper-copper-space = 0.2
+    Margin: 0.39 - 0.2 = 0.19
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+  open-components-database/utils/checks.stanza:320.4: Assertion 'min-width(copper) >= min-copper-width' passed.
+    min-width(copper) = 0.57
+    min-copper-width = 0.2
+    Margin: 0.57 - 0.2 = 0.37
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.
+
+open-components-database/utils/checks.stanza:354.6: Check 'check-min-copper-copper-space' passed.
+  Defined at open-components-database/utils/checks.stanza:308.7.
+
+open-components-database/utils/checks.stanza:355.6: Check 'check-min-copper-width' passed.
+  Defined at open-components-database/utils/checks.stanza:316.7.
+
+open-components-database/utils/checks.stanza:356.6: Check 'check-min-solder-mask-sliver' passed.
+  Defined at open-components-database/utils/checks.stanza:334.7.

@@ -1,0 +1,1643 @@
+EESchema Schematic File Version 4
+EELAYER 25 0
+EELAYER END
+$Descr E 44016.0 34016.0
+encoding utf-8
+Sheet 1 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L project_symbols:component_4 TP11
+U 1 1 00000000
+P 1150 24350
+F 0 "TP11" H 1050 24425 28 0 L CNN
+F 1 "RCU-0C" H 1150 24350 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 1150 24350 60 1 C CNN
+F 3 "" H 1150 24350 60 1 C CNN
+F 4 "RCU-0C" H 1150 24350 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 1150 24350 60 1 C CNN "Manufacturer"
+  1 1150 24350
+  0 1 1 0
+$EndComp
+$Comp
+L project_symbols:component_5 U5
+U 1 1 00000000
+P 4100 23100
+F 0 "U5" H 3850 23504 30 0 L BNN
+F 1 "HDC1080DMBR" H 3850 23462 30 0 L BNN
+F 2 "ble-mote:son100p300x300x80_7n" H 4100 23100 60 1 C CNN
+F 3 "" H 4100 23100 60 1 C CNN
+F 4 "HDC1080DMBR" H 4100 23100 60 1 C CNN "MPN"
+F 5 "Texas Instruments" H 4100 23100 60 1 C CNN "Manufacturer"
+  1 4100 23100
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component_1 U4
+U 1 1 00000000
+P 3600 31650
+F 0 "U4" H 3050 32754 30 0 L BNN
+F 1 "CP2105-F01-GM" H 3050 32712 30 0 L BNN
+F 2 "ble-mote:qfn_landpattern" H 3600 31650 60 1 C CNN
+F 3 "" H 3600 31650 60 1 C CNN
+F 4 "CP2105-F01-GM" H 3600 31650 60 1 C CNN "MPN"
+F 5 "Silicon Labs" H 3600 31650 60 1 C CNN "Manufacturer"
+  1 3600 31650
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:AP2112 U2
+U 1 1 00000000
+P 4600 30050
+F 0 "U2" H 4350 30404 30 0 L BNN
+F 1 "AP2112K-3.3TRG1" H 4350 30362 30 0 L BNN
+F 2 "ble-mote:SOT95P280X145_5N" H 4600 30050 60 1 C CNN
+F 3 "" H 4600 30050 60 1 C CNN
+F 4 "AP2112K-3.3TRG1" H 4600 30050 60 1 C CNN "MPN"
+F 5 "Diodes Incorporated" H 4600 30050 60 1 C CNN "Manufacturer"
+  1 4600 30050
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component_4 TP10
+U 1 1 00000000
+P 1450 25450
+F 0 "TP10" H 1350 25525 28 0 L CNN
+F 1 "RCU-0C" H 1450 25450 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 1450 25450 60 1 C CNN
+F 3 "" H 1450 25450 60 1 C CNN
+F 4 "RCU-0C" H 1450 25450 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 1450 25450 60 1 C CNN "Manufacturer"
+  1 1450 25450
+  0 -1 -1 0
+$EndComp
+$Comp
+L project_symbols:my_capacitor_3 C12
+U 1 1 00000000
+P 3300 22800
+F 0 "C12" H 3400 22850 28 0 L CNN
+F 1 "100.0nF ± 10.00%" H 3400 22750 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 3300 22800 60 1 C CNN
+F 3 "" H 3300 22800 60 1 C CNN
+F 4 "100.0nF ± 10.00%" H 3300 22800 60 1 C CNN "Capacitance"
+F 5 "10.0%" H 3300 22800 60 1 C CNN "Tolerance"
+F 6 "25.0V" H 3300 22800 60 1 C CNN "Maximum Voltage"
+F 7 "CL05B104KA5NNNC" H 3300 22800 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 3300 22800 60 1 C CNN "Manufacturer"
+  1 3300 22800
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:component_4 TP9
+U 1 1 00000000
+P 3150 26600
+F 0 "TP9" H 3050 26675 28 0 L CNN
+F 1 "RCU-0C" H 3150 26600 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 3150 26600 60 1 C CNN
+F 3 "" H 3150 26600 60 1 C CNN
+F 4 "RCU-0C" H 3150 26600 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 3150 26600 60 1 C CNN "Manufacturer"
+  1 3150 26600
+  0 -1 -1 0
+$EndComp
+$Comp
+L project_symbols:my_capacitor_10 C9
+U 1 1 00000000
+P 12150 32100
+F 0 "C9" H 12250 32150 28 0 L CNN
+F 1 "2.4pF ± 4.17%" H 12250 32050 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 12150 32100 60 1 C CNN
+F 3 "" H 12150 32100 60 1 C CNN
+F 4 "2.4pF ± 4.17%" H 12150 32100 60 1 C CNN "Capacitance"
+F 5 "4.16666666666667%" H 12150 32100 60 1 C CNN "Tolerance"
+F 6 "50.0V" H 12150 32100 60 1 C CNN "Maximum Voltage"
+F 7 "04025U2R4BAT2A" H 12150 32100 60 1 C CNN "MPN"
+F 8 "AVX Corporation" H 12150 32100 60 1 C CNN "Manufacturer"
+  1 12150 32100
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:component_4 TP8
+U 1 1 00000000
+P 1650 24800
+F 0 "TP8" H 1550 24875 28 0 L CNN
+F 1 "RCU-0C" H 1650 24800 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 1650 24800 60 1 C CNN
+F 3 "" H 1650 24800 60 1 C CNN
+F 4 "RCU-0C" H 1650 24800 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 1650 24800 60 1 C CNN "Manufacturer"
+  1 1650 24800
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_capacitor_4 C1
+U 1 1 00000000
+P 1500 28700
+F 0 "C1" H 1600 28750 28 0 L CNN
+F 1 "100.0nF ± 10.00%" H 1600 28650 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 1500 28700 60 1 C CNN
+F 3 "" H 1500 28700 60 1 C CNN
+F 4 "100.0nF ± 10.00%" H 1500 28700 60 1 C CNN "Capacitance"
+F 5 "10.0%" H 1500 28700 60 1 C CNN "Tolerance"
+F 6 "25.0V" H 1500 28700 60 1 C CNN "Maximum Voltage"
+F 7 "CL05B104KA5NNNC" H 1500 28700 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 1500 28700 60 1 C CNN "Manufacturer"
+  1 1500 28700
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component_4 TP7
+U 1 1 00000000
+P 2250 24550
+F 0 "TP7" H 2150 24625 28 0 L CNN
+F 1 "RCU-0C" H 2250 24550 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 2250 24550 60 1 C CNN
+F 3 "" H 2250 24550 60 1 C CNN
+F 4 "RCU-0C" H 2250 24550 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 2250 24550 60 1 C CNN "Manufacturer"
+  1 2250 24550
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_capacitor_11 C7
+U 1 1 00000000
+P 8150 28650
+F 0 "C7" H 8250 28700 28 0 L CNN
+F 1 "100.0nF ± 10.00%" H 8250 28600 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 8150 28650 60 1 C CNN
+F 3 "" H 8150 28650 60 1 C CNN
+F 4 "100.0nF ± 10.00%" H 8150 28650 60 1 C CNN "Capacitance"
+F 5 "10.0%" H 8150 28650 60 1 C CNN "Tolerance"
+F 6 "25.0V" H 8150 28650 60 1 C CNN "Maximum Voltage"
+F 7 "CL05B104KA5NNNC" H 8150 28650 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 8150 28650 60 1 C CNN "Manufacturer"
+  1 8150 28650
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:component_2 U1
+U 1 1 00000000
+P 1700 31550
+F 0 "U1" H 1500 31954 30 0 L BNN
+F 1 "TPD3S014DBVR" H 1500 31912 30 0 L BNN
+F 2 "ble-mote:SOT95P280X145_6N" H 1700 31550 60 1 C CNN
+F 3 "" H 1700 31550 60 1 C CNN
+F 4 "TPD3S014DBVR" H 1700 31550 60 1 C CNN "MPN"
+F 5 "Texas Instruments" H 1700 31550 60 1 C CNN "Manufacturer"
+  1 1700 31550
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component_4 TP6
+U 1 1 00000000
+P 1650 24300
+F 0 "TP6" H 1550 24375 28 0 L CNN
+F 1 "RCU-0C" H 1650 24300 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 1650 24300 60 1 C CNN
+F 3 "" H 1650 24300 60 1 C CNN
+F 4 "RCU-0C" H 1650 24300 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 1650 24300 60 1 C CNN "Manufacturer"
+  1 1650 24300
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:Minitek127_5x2_Header J2
+U 1 1 00000000
+P 1700 23400
+F 0 "J2" H 1600 23700 28 0 L CNN
+F 1 "20021321-00010C4LF" H 1600 23675 28 0 L CNN
+F 2 "ble-mote:amphenol_minitek127_pkg" H 1700 23400 60 1 C CNN
+F 3 "" H 1700 23400 60 1 C CNN
+F 4 "20021321-00010C4LF" H 1700 23400 60 1 C CNN "MPN"
+F 5 "Amphenol" H 1700 23400 60 1 C CNN "Manufacturer"
+  1 1700 23400
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_resistor_1 R1
+U 1 1 00000000
+P 1350 29050
+F 0 "R1" H 1450 29100 28 0 L CNN
+F 1 "100.0kΩ ± 0.50%" H 1450 29000 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 1350 29050 60 1 C CNN
+F 3 "" H 1350 29050 60 1 C CNN
+F 4 "100.0kΩ ± 0.50%" H 1350 29050 60 1 C CNN "Resistance"
+F 5 "0.5%" H 1350 29050 60 1 C CNN "Tolerance"
+F 6 "0.063W" H 1350 29050 60 1 C CNN "Maximum Power"
+F 7 "RR0510P-104-D" H 1350 29050 60 1 C CNN "MPN"
+F 8 "Susumu" H 1350 29050 60 1 C CNN "Manufacturer"
+  1 1350 29050
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:component_4 TP5
+U 1 1 00000000
+P 3150 26000
+F 0 "TP5" H 3050 26075 28 0 L CNN
+F 1 "RCU-0C" H 3150 26000 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 3150 26000 60 1 C CNN
+F 3 "" H 3150 26000 60 1 C CNN
+F 4 "RCU-0C" H 3150 26000 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 3150 26000 60 1 C CNN "Manufacturer"
+  1 3150 26000
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_inductor L1
+U 1 1 00000000
+P 10850 32400
+F 0 "L1" H 10950 32450 28 0 L CNN
+F 1 "2.7nH ± 11.11%" H 10950 32350 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 10850 32400 60 1 C CNN
+F 3 "" H 10850 32400 60 1 C CNN
+F 4 "2.7nH ± 11.11%" H 10850 32400 60 1 C CNN "Inductance"
+F 5 "11.1111111111111%" H 10850 32400 60 1 C CNN "Tolerance"
+F 6 "0.8A" H 10850 32400 60 1 C CNN "Maximum Current"
+F 7 "LQG15HS2N7S02D" H 10850 32400 60 1 C CNN "MPN"
+F 8 "Murata Electronics" H 10850 32400 60 1 C CNN "Manufacturer"
+  1 10850 32400
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component Q1
+U 1 1 00000000
+P 8600 30100
+F 0 "Q1" H 8700 30150 28 0 L CNN
+F 1 "PMBT3904,235" H 8700 30050 28 0 L CNN
+F 2 "ble-mote:SOT95P280X100_3N" H 8600 30100 60 1 C CNN
+F 3 "" H 8600 30100 60 1 C CNN
+F 4 "PMBT3904,235" H 8600 30100 60 1 C CNN "MPN"
+F 5 "Nexperia" H 8600 30100 60 1 C CNN "Manufacturer"
+  1 8600 30100
+  0 1 1 0
+$EndComp
+$Comp
+L project_symbols:my_capacitor_2 C6
+U 1 1 00000000
+P 7700 28650
+F 0 "C6" H 7800 28700 28 0 L CNN
+F 1 "10.0μF ± 20.00%" H 7800 28600 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 7700 28650 60 1 C CNN
+F 3 "" H 7700 28650 60 1 C CNN
+F 4 "10.0μF ± 20.00%" H 7700 28650 60 1 C CNN "Capacitance"
+F 5 "20.0%" H 7700 28650 60 1 C CNN "Tolerance"
+F 6 "10.0V" H 7700 28650 60 1 C CNN "Maximum Voltage"
+F 7 "CL05A106MP8NUB8" H 7700 28650 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 7700 28650 60 1 C CNN "Manufacturer"
+  1 7700 28650
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:component_4 TP4
+U 1 1 00000000
+P 1600 26100
+F 0 "TP4" H 1500 26175 28 0 L CNN
+F 1 "RCU-0C" H 1600 26100 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 1600 26100 60 1 C CNN
+F 3 "" H 1600 26100 60 1 C CNN
+F 4 "RCU-0C" H 1600 26100 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 1600 26100 60 1 C CNN "Manufacturer"
+  1 1600 26100
+  0 -1 -1 0
+$EndComp
+$Comp
+L project_symbols:my_resistor_10 R11
+U 1 1 00000000
+P 2650 26150
+F 0 "R11" H 2750 26200 28 0 L CNN
+F 1 "41.2Ω ± 1.00%" H 2750 26100 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 2650 26150 60 1 C CNN
+F 3 "" H 2650 26150 60 1 C CNN
+F 4 "41.2Ω ± 1.00%" H 2650 26150 60 1 C CNN "Resistance"
+F 5 "1.0%" H 2650 26150 60 1 C CNN "Tolerance"
+F 6 "0.1W" H 2650 26150 60 1 C CNN "Maximum Power"
+F 7 "ERJ-2RKF41R2X" H 2650 26150 60 1 C CNN "MPN"
+F 8 "Panasonic Electronic Components" H 2650 26150 60 1 C CNN "Manufacturer"
+  1 2650 26150
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component_4 TP3
+U 1 1 00000000
+P 1000 26100
+F 0 "TP3" H 900 26175 28 0 L CNN
+F 1 "RCU-0C" H 1000 26100 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 1000 26100 60 1 C CNN
+F 3 "" H 1000 26100 60 1 C CNN
+F 4 "RCU-0C" H 1000 26100 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 1000 26100 60 1 C CNN "Manufacturer"
+  1 1000 26100
+  0 -1 -1 0
+$EndComp
+$Comp
+L project_symbols:ESP32_Pico_D4_BLE_WiFi_SoC U3
+U 1 1 00000000
+P 9950 31200
+F 0 "U3" H 9250 32754 30 0 L BNN
+F 1 "ESP32-PICO-D4" H 9250 32712 30 0 L BNN
+F 2 "ble-mote:pqfn50p700x700x104_49n" H 9950 31200 60 1 C CNN
+F 3 "" H 9950 31200 60 1 C CNN
+F 4 "ESP32-PICO-D4" H 9950 31200 60 1 C CNN "MPN"
+  1 9950 31200
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_capacitor_6 C3
+U 1 1 00000000
+P 2150 29100
+F 0 "C3" H 2250 29150 28 0 L CNN
+F 1 "10.0μF ± 20.00%" H 2250 29050 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 2150 29100 60 1 C CNN
+F 3 "" H 2150 29100 60 1 C CNN
+F 4 "10.0μF ± 20.00%" H 2150 29100 60 1 C CNN "Capacitance"
+F 5 "20.0%" H 2150 29100 60 1 C CNN "Tolerance"
+F 6 "10.0V" H 2150 29100 60 1 C CNN "Maximum Voltage"
+F 7 "CL05A106MP8NUB8" H 2150 29100 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 2150 29100 60 1 C CNN "Manufacturer"
+  1 2150 29100
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:AMPHENOL_10103594_0001LF J1
+U 1 1 00000000
+P 1300 27650
+F 0 "J1" H 1150 28204 30 0 L BNN
+F 1 "10103594-0001LF" H 1150 28162 30 0 L BNN
+F 2 "ble-mote:amphenol_10103594_0001lf" H 1300 27650 60 1 C CNN
+F 3 "" H 1300 27650 60 1 C CNN
+F 4 "10103594-0001LF" H 1300 27650 60 1 C CNN "MPN"
+  1 1300 27650
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component_4 TP2
+U 1 1 00000000
+P 1650 24550
+F 0 "TP2" H 1550 24625 28 0 L CNN
+F 1 "RCU-0C" H 1650 24550 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 1650 24550 60 1 C CNN
+F 3 "" H 1650 24550 60 1 C CNN
+F 4 "RCU-0C" H 1650 24550 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 1650 24550 60 1 C CNN "Manufacturer"
+  1 1650 24550
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_resistor_9 R10
+U 1 1 00000000
+P 2250 26150
+F 0 "R10" H 2350 26200 28 0 L CNN
+F 1 "150.0Ω ± 1.00%" H 2350 26100 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 2250 26150 60 1 C CNN
+F 3 "" H 2250 26150 60 1 C CNN
+F 4 "150.0Ω ± 1.00%" H 2250 26150 60 1 C CNN "Resistance"
+F 5 "1.0%" H 2250 26150 60 1 C CNN "Tolerance"
+F 6 "0.063W" H 2250 26150 60 1 C CNN "Maximum Power"
+F 7 "CRGCQ0402F150R" H 2250 26150 60 1 C CNN "MPN"
+F 8 "TE Connectivity Passive Product" H 2250 26150 60 1 C CNN "Manufacturer"
+  1 2250 26150
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component_4 TP1
+U 1 1 00000000
+P 2250 24800
+F 0 "TP1" H 2150 24875 28 0 L CNN
+F 1 "RCU-0C" H 2250 24800 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 2250 24800 60 1 C CNN
+F 3 "" H 2250 24800 60 1 C CNN
+F 4 "RCU-0C" H 2250 24800 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 2250 24800 60 1 C CNN "Manufacturer"
+  1 2250 24800
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component_3 U6
+U 1 1 00000000
+P 2250 25700
+F 0 "U6" H 2350 25900 28 0 L CNN
+F 1 "FM-B2020RGBA-HG" H 2350 25850 28 0 L CNN
+F 2 "ble-mote:rgb_2020" H 2250 25700 60 1 C CNN
+F 3 "" H 2250 25700 60 1 C CNN
+F 4 "FM-B2020RGBA-HG" H 2250 25700 60 1 C CNN "MPN"
+F 5 "Foshan NationStar Optoelectronics" H 2250 25700 60 1 C CNN "Manufacturer"
+  1 2250 25700
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:component Q2
+U 1 1 00000000
+P 7700 30200
+F 0 "Q2" H 7800 30250 28 0 L CNN
+F 1 "PMBT3904,235" H 7800 30150 28 0 L CNN
+F 2 "ble-mote:SOT95P280X100_3N" H 7700 30200 60 1 C CNN
+F 3 "" H 7700 30200 60 1 C CNN
+F 4 "PMBT3904,235" H 7700 30200 60 1 C CNN "MPN"
+F 5 "Nexperia" H 7700 30200 60 1 C CNN "Manufacturer"
+  1 7700 30200
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:my_capacitor C2
+U 1 1 00000000
+P 1000 32650
+F 0 "C2" H 1100 32700 28 0 L CNN
+F 1 "100.0nF ± 10.00%" H 1100 32600 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 1000 32650 60 1 C CNN
+F 3 "" H 1000 32650 60 1 C CNN
+F 4 "100.0nF ± 10.00%" H 1000 32650 60 1 C CNN "Capacitance"
+F 5 "10.0%" H 1000 32650 60 1 C CNN "Tolerance"
+F 6 "25.0V" H 1000 32650 60 1 C CNN "Maximum Voltage"
+F 7 "CL05B104KA5NNNC" H 1000 32650 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 1000 32650 60 1 C CNN "Manufacturer"
+  1 1000 32650
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_resistor_8 R9
+U 1 1 00000000
+P 1850 26150
+F 0 "R9" H 1950 26200 28 0 L CNN
+F 1 "150.0Ω ± 1.00%" H 1950 26100 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 1850 26150 60 1 C CNN
+F 3 "" H 1850 26150 60 1 C CNN
+F 4 "150.0Ω ± 1.00%" H 1850 26150 60 1 C CNN "Resistance"
+F 5 "1.0%" H 1850 26150 60 1 C CNN "Tolerance"
+F 6 "0.063W" H 1850 26150 60 1 C CNN "Maximum Power"
+F 7 "CRGCQ0402F150R" H 1850 26150 60 1 C CNN "MPN"
+F 8 "TE Connectivity Passive Product" H 1850 26150 60 1 C CNN "Manufacturer"
+  1 1850 26150
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_resistor R8
+U 1 1 00000000
+P 1600 25450
+F 0 "R8" H 1700 25500 28 0 L CNN
+F 1 "8.2kΩ ± 1.00%" H 1700 25400 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 1600 25450 60 1 C CNN
+F 3 "" H 1600 25450 60 1 C CNN
+F 4 "8.2kΩ ± 1.00%" H 1600 25450 60 1 C CNN "Resistance"
+F 5 "1.0%" H 1600 25450 60 1 C CNN "Tolerance"
+F 6 "0.063W" H 1600 25450 60 1 C CNN "Maximum Power"
+F 7 "CRGCQ0402F8K2" H 1600 25450 60 1 C CNN "MPN"
+F 8 "TE Connectivity Passive Product" H 1600 25450 60 1 C CNN "Manufacturer"
+  1 1600 25450
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_resistor_6 R4
+U 1 1 00000000
+P 2150 30900
+F 0 "R4" H 2250 30950 28 0 L CNN
+F 1 "4.7kΩ ± 0.10%" H 2250 30850 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 2150 30900 60 1 C CNN
+F 3 "" H 2150 30900 60 1 C CNN
+F 4 "4.7kΩ ± 0.10%" H 2150 30900 60 1 C CNN "Resistance"
+F 5 "0.1%" H 2150 30900 60 1 C CNN "Tolerance"
+F 6 "0.063W" H 2150 30900 60 1 C CNN "Maximum Power"
+F 7 "RG1005P-472-B-T5" H 2150 30900 60 1 C CNN "MPN"
+F 8 "Susumu" H 2150 30900 60 1 C CNN "Manufacturer"
+  1 2150 30900
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_resistor_5 R3
+U 1 1 00000000
+P 8050 30200
+F 0 "R3" H 8150 30250 28 0 L CNN
+F 1 "10.0kΩ ± 0.10%" H 8150 30150 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 8050 30200 60 1 C CNN
+F 3 "" H 8050 30200 60 1 C CNN
+F 4 "10.0kΩ ± 0.10%" H 8050 30200 60 1 C CNN "Resistance"
+F 5 "0.1%" H 8050 30200 60 1 C CNN "Tolerance"
+F 6 "0.1W" H 8050 30200 60 1 C CNN "Maximum Power"
+F 7 "MCS0402MD1002BE100" H 8050 30200 60 1 C CNN "MPN"
+F 8 "Vishay Beyschlag/Draloric/BC Components" H 8050 30200 60 1 C CNN "Manufacturer"
+  1 8050 30200
+  0 -1 -1 0
+$EndComp
+$Comp
+L project_symbols:my_capacitor_8 C5
+U 1 1 00000000
+P 6500 32650
+F 0 "C5" H 6600 32700 28 0 L CNN
+F 1 "1.0μF ± 10.00%" H 6600 32600 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 6500 32650 60 1 C CNN
+F 3 "" H 6500 32650 60 1 C CNN
+F 4 "1.0μF ± 10.00%" H 6500 32650 60 1 C CNN "Capacitance"
+F 5 "10.0%" H 6500 32650 60 1 C CNN "Tolerance"
+F 6 "10.0V" H 6500 32650 60 1 C CNN "Maximum Voltage"
+F 7 "CL05A105KP5NNNC" H 6500 32650 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 6500 32650 60 1 C CNN "Manufacturer"
+  1 6500 32650
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:my_resistor_3 R6
+U 1 1 00000000
+P 2650 23150
+F 0 "R6" H 2750 23200 28 0 L CNN
+F 1 "10.0kΩ ± 0.10%" H 2750 23100 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 2650 23150 60 1 C CNN
+F 3 "" H 2650 23150 60 1 C CNN
+F 4 "10.0kΩ ± 0.10%" H 2650 23150 60 1 C CNN "Resistance"
+F 5 "0.1%" H 2650 23150 60 1 C CNN "Tolerance"
+F 6 "0.1W" H 2650 23150 60 1 C CNN "Maximum Power"
+F 7 "MCS0402MD1002BE100" H 2650 23150 60 1 C CNN "MPN"
+F 8 "Vishay Beyschlag/Draloric/BC Components" H 2650 23150 60 1 C CNN "Manufacturer"
+  1 2650 23150
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:my_resistor_2 R7
+U 1 1 00000000
+P 1000 25450
+F 0 "R7" H 1100 25500 28 0 L CNN
+F 1 "8.2kΩ ± 1.00%" H 1100 25400 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 1000 25450 60 1 C CNN
+F 3 "" H 1000 25450 60 1 C CNN
+F 4 "8.2kΩ ± 1.00%" H 1000 25450 60 1 C CNN "Resistance"
+F 5 "1.0%" H 1000 25450 60 1 C CNN "Tolerance"
+F 6 "0.063W" H 1000 25450 60 1 C CNN "Maximum Power"
+F 7 "CRGCQ0402F8K2" H 1000 25450 60 1 C CNN "MPN"
+F 8 "TE Connectivity Passive Product" H 1000 25450 60 1 C CNN "Manufacturer"
+  1 1000 25450
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:my_capacitor_1 C11
+U 1 1 00000000
+P 6050 32650
+F 0 "C11" H 6150 32700 28 0 L CNN
+F 1 "100.0nF ± 10.00%" H 6150 32600 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 6050 32650 60 1 C CNN
+F 3 "" H 6050 32650 60 1 C CNN
+F 4 "100.0nF ± 10.00%" H 6050 32650 60 1 C CNN "Capacitance"
+F 5 "10.0%" H 6050 32650 60 1 C CNN "Tolerance"
+F 6 "25.0V" H 6050 32650 60 1 C CNN "Maximum Voltage"
+F 7 "CL05B104KA5NNNC" H 6050 32650 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 6050 32650 60 1 C CNN "Manufacturer"
+  1 6050 32650
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:component_4 TP13
+U 1 1 00000000
+P 1350 24350
+F 0 "TP13" H 1250 24425 28 0 L CNN
+F 1 "RCU-0C" H 1350 24350 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 1350 24350 60 1 C CNN
+F 3 "" H 1350 24350 60 1 C CNN
+F 4 "RCU-0C" H 1350 24350 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 1350 24350 60 1 C CNN "Manufacturer"
+  1 1350 24350
+  0 1 1 0
+$EndComp
+$Comp
+L project_symbols:my_capacitor_9 C8
+U 1 1 00000000
+P 11050 31900
+F 0 "C8" H 11150 31950 28 0 L CNN
+F 1 "5.6pF ± 1.79%" H 11150 31850 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 11050 31900 60 1 C CNN
+F 3 "" H 11050 31900 60 1 C CNN
+F 4 "5.6pF ± 1.79%" H 11050 31900 60 1 C CNN "Capacitance"
+F 5 "1.78571428571429%" H 11050 31900 60 1 C CNN "Tolerance"
+F 6 "50.0V" H 11050 31900 60 1 C CNN "Maximum Voltage"
+F 7 "CL05C5R6BB5NNNC" H 11050 31900 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 11050 31900 60 1 C CNN "Manufacturer"
+  1 11050 31900
+  0 -1 -1 0
+$EndComp
+$Comp
+L project_symbols:my_resistor_4 R2
+U 1 1 00000000
+P 7800 29500
+F 0 "R2" H 7900 29550 28 0 L CNN
+F 1 "10.0kΩ ± 0.10%" H 7900 29450 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 7800 29500 60 1 C CNN
+F 3 "" H 7800 29500 60 1 C CNN
+F 4 "10.0kΩ ± 0.10%" H 7800 29500 60 1 C CNN "Resistance"
+F 5 "0.1%" H 7800 29500 60 1 C CNN "Tolerance"
+F 6 "0.1W" H 7800 29500 60 1 C CNN "Maximum Power"
+F 7 "MCS0402MD1002BE100" H 7800 29500 60 1 C CNN "MPN"
+F 8 "Vishay Beyschlag/Draloric/BC Components" H 7800 29500 60 1 C CNN "Manufacturer"
+  1 7800 29500
+  0 1 1 0
+$EndComp
+$Comp
+L project_symbols:my_capacitor_7 C4
+U 1 1 00000000
+P 7000 32700
+F 0 "C4" H 7100 32750 28 0 L CNN
+F 1 "1.0μF ± 10.00%" H 7100 32650 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 7000 32700 60 1 C CNN
+F 3 "" H 7000 32700 60 1 C CNN
+F 4 "1.0μF ± 10.00%" H 7000 32700 60 1 C CNN "Capacitance"
+F 5 "10.0%" H 7000 32700 60 1 C CNN "Tolerance"
+F 6 "10.0V" H 7000 32700 60 1 C CNN "Maximum Voltage"
+F 7 "CL05A105KP5NNNC" H 7000 32700 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 7000 32700 60 1 C CNN "Manufacturer"
+  1 7000 32700
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:component_4 TP12
+U 1 1 00000000
+P 950 24350
+F 0 "TP12" H 850 24425 28 0 L CNN
+F 1 "RCU-0C" H 950 24350 60 1 C CNN
+F 2 "ble-mote:rc_landpattern" H 950 24350 60 1 C CNN
+F 3 "" H 950 24350 60 1 C CNN
+F 4 "RCU-0C" H 950 24350 60 1 C CNN "MPN"
+F 5 "TE Connectivity" H 950 24350 60 1 C CNN "Manufacturer"
+  1 950 24350
+  0 1 1 0
+$EndComp
+$Comp
+L project_symbols:my_resistor_7 R5
+U 1 1 00000000
+P 1200 22750
+F 0 "R5" H 1300 22800 28 0 L CNN
+F 1 "10.0kΩ ± 0.10%" H 1300 22700 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 1200 22750 60 1 C CNN
+F 3 "" H 1200 22750 60 1 C CNN
+F 4 "10.0kΩ ± 0.10%" H 1200 22750 60 1 C CNN "Resistance"
+F 5 "0.1%" H 1200 22750 60 1 C CNN "Tolerance"
+F 6 "0.1W" H 1200 22750 60 1 C CNN "Maximum Power"
+F 7 "MCS0402MD1002BE100" H 1200 22750 60 1 C CNN "MPN"
+F 8 "Vishay Beyschlag/Draloric/BC Components" H 1200 22750 60 1 C CNN "Manufacturer"
+  1 1200 22750
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:my_capacitor_5 C10
+U 1 1 00000000
+P 5600 32650
+F 0 "C10" H 5700 32700 28 0 L CNN
+F 1 "4.7μF ± 20.00%" H 5700 32600 28 0 L CNN
+F 2 "ble-mote:ipc_two_pin_landpattern" H 5600 32650 60 1 C CNN
+F 3 "" H 5600 32650 60 1 C CNN
+F 4 "4.7μF ± 20.00%" H 5600 32650 60 1 C CNN "Capacitance"
+F 5 "20.0%" H 5600 32650 60 1 C CNN "Tolerance"
+F 6 "10.0V" H 5600 32650 60 1 C CNN "Maximum Voltage"
+F 7 "CL05A475MP5NRNC" H 5600 32650 60 1 C CNN "MPN"
+F 8 "Samsung Electro-Mechanics" H 5600 32650 60 1 C CNN "Manufacturer"
+  1 5600 32650
+  -1 0 0 1
+$EndComp
+$Comp
+L project_symbols:inverted_f_antenna_cmp ANT1
+U 1 1 00000000
+P 11500 32300
+F 0 "ANT1" H 11350 32500 28 0 L CNN
+F 1 "" H 11500 32300 60 1 C CNN
+F 2 "ble-mote:ant_2GHz4_inverted_f_geom" H 11500 32300 60 1 C CNN
+F 3 "" H 11500 32300 60 1 C CNN
+  1 11500 32300
+  1 0 0 -1
+$EndComp
+Wire Wire Line
+  5600 32750 5600 32800
+Wire Wire Line
+  5600 32550 5600 32500
+Wire Wire Line
+  1200 22650 1200 22600
+Wire Wire Line
+  1200 22850 1200 22900
+Wire Wire Line
+  950 24450 950 24500
+Wire Wire Line
+  7000 32800 7000 32850
+Wire Wire Line
+  7000 32600 7000 32550
+Wire Wire Line
+  7700 29500 7650 29500
+Wire Wire Line
+  7900 29500 7950 29500
+Wire Wire Line
+  10950 31900 10900 31900
+Wire Wire Line
+  11150 31900 11200 31900
+Wire Wire Line
+  1350 24450 1350 24500
+Wire Wire Line
+  6050 32750 6050 32800
+Wire Wire Line
+  6050 32550 6050 32500
+Wire Wire Line
+  1000 25550 1000 25600
+Wire Wire Line
+  1000 25350 1000 25300
+Wire Wire Line
+  2650 23050 2650 23000
+Wire Wire Line
+  2650 23250 2650 23300
+Wire Wire Line
+  6500 32750 6500 32800
+Wire Wire Line
+  6500 32550 6500 32500
+Wire Wire Line
+  8150 30200 8200 30200
+Wire Wire Line
+  7950 30200 7900 30200
+Wire Wire Line
+  2150 31000 2150 31050
+Wire Wire Line
+  2150 30800 2150 30750
+Wire Wire Line
+  1600 25550 1600 25600
+Wire Wire Line
+  1600 25350 1600 25300
+Wire Wire Line
+  1850 26250 1850 26300
+Wire Wire Line
+  1850 26050 1850 26000
+Wire Wire Line
+  1000 32550 1000 32500
+Wire Wire Line
+  1000 32750 1000 32800
+Wire Wire Line
+  7600 30100 7600 30050
+Wire Wire Line
+  7600 30300 7600 30350
+Wire Wire Line
+  7800 30200 7850 30200
+Wire Wire Line
+  2250 25500 2250 25450
+Wire Wire Line
+  2050 25850 2050 25900
+Wire Wire Line
+  2250 25850 2250 25900
+Wire Wire Line
+  2450 25850 2450 25900
+Wire Wire Line
+  2350 24800 2400 24800
+Wire Wire Line
+  2250 26250 2250 26300
+Wire Wire Line
+  2250 26050 2250 26000
+Wire Wire Line
+  1750 24550 1800 24550
+Wire Wire Line
+  2150 29000 2150 28950
+Wire Wire Line
+  2150 29200 2150 29250
+Wire Wire Line
+  1000 26000 1000 25950
+Wire Wire Line
+  2650 26250 2650 26300
+Wire Wire Line
+  2650 26050 2650 26000
+Wire Wire Line
+  1600 26000 1600 25950
+Wire Wire Line
+  7700 28750 7700 28800
+Wire Wire Line
+  7700 28550 7700 28500
+Wire Wire Line
+  8500 30200 8450 30200
+Wire Wire Line
+  8700 30200 8750 30200
+Wire Wire Line
+  8600 30000 8600 29950
+Wire Wire Line
+  10850 32500 10850 32550
+Wire Wire Line
+  10850 32300 10850 32250
+Wire Wire Line
+  3250 26000 3300 26000
+Wire Wire Line
+  1350 28950 1350 28900
+Wire Wire Line
+  1350 29150 1350 29200
+Wire Wire Line
+  1750 24300 1800 24300
+Wire Wire Line
+  8150 28750 8150 28800
+Wire Wire Line
+  8150 28550 8150 28500
+Wire Wire Line
+  2350 24550 2400 24550
+Wire Wire Line
+  1500 28600 1500 28550
+Wire Wire Line
+  1500 28800 1500 28850
+Wire Wire Line
+  1750 24800 1800 24800
+Wire Wire Line
+  12150 32200 12150 32250
+Wire Wire Line
+  12150 32000 12150 31950
+Wire Wire Line
+  3150 26500 3150 26450
+Wire Wire Line
+  3300 22900 3300 22950
+Wire Wire Line
+  3300 22700 3300 22650
+Wire Wire Line
+  1450 25350 1450 25300
+Wire Wire Line
+  2950 31450 2900 31450
+Wire Wire Line
+  2950 31550 2900 31550
+Wire Wire Line
+  2950 31650 2900 31650
+Wire Wire Line
+  2950 31750 2900 31750
+Wire Wire Line
+  2950 31850 2900 31850
+Wire Wire Line
+  4250 30900 4300 30900
+Wire Wire Line
+  4250 31000 4300 31000
+Wire Wire Line
+  4250 31100 4300 31100
+Wire Wire Line
+  4250 31200 4300 31200
+Wire Wire Line
+  4250 31300 4300 31300
+Wire Wire Line
+  4250 31400 4300 31400
+Wire Wire Line
+  4250 31500 4300 31500
+Wire Wire Line
+  4250 31600 4300 31600
+Wire Wire Line
+  4250 31700 4300 31700
+Wire Wire Line
+  4250 31800 4300 31800
+Wire Wire Line
+  4250 31900 4300 31900
+Wire Wire Line
+  4250 32000 4300 32000
+Wire Wire Line
+  4250 32100 4300 32100
+Wire Wire Line
+  4250 32200 4300 32200
+Wire Wire Line
+  4250 32300 4300 32300
+Wire Wire Line
+  4250 32400 4300 32400
+Wire Wire Line
+  1150 24450 1150 24500
+Wire Wire Line
+  5100 29950 5100 30000
+Wire Wire Line
+  3650 30350 3650 30400
+Wire Wire Line
+  4100 29900 4100 29950
+Wire Wire Line
+  4550 32950 4550 32900
+Wire Wire Line
+  1000 29300 1000 29250
+Wire Wire Line
+  1350 29350 1350 29300
+Wire Wire Line
+  6500 32350 6500 32400
+Wire Wire Line
+  5600 32400 5600 32450
+Wire Wire Line
+  5600 32950 5600 32900
+Wire Wire Line
+  7000 32450 7000 32500
+Wire Wire Line
+  7000 32950 7000 32900
+Wire Wire Line
+  2150 28850 2150 28900
+Wire Wire Line
+  2150 29350 2150 29300
+Wire Wire Line
+  10000 29450 10000 29500
+Wire Wire Line
+  9750 32950 9750 32900
+Wire Wire Line
+  12150 32400 12150 32350
+Wire Wire Line
+  8150 28350 8150 28400
+Wire Wire Line
+  8150 28950 8150 28900
+Wire Wire Line
+  1550 25150 1550 25200
+Wire Wire Line
+  1100 24650 1100 24600
+Wire Wire Line
+  3150 26350 3150 26400
+Wire Wire Line
+  1200 22450 1200 22500
+Wire Wire Line
+  2250 22850 2250 22900
+Wire Wire Line
+  1150 23700 1150 23650
+Wire Wire Line
+  3300 22500 3300 22550
+Wire Wire Line
+  3300 23700 3300 23650
+Wire Wire Line
+  2150 31850 2900 31850
+Wire Wire Line
+  2150 31850 2150 31050
+Wire Wire Line
+  4950 30050 5100 30050
+Wire Wire Line
+  5100 30050 5100 30000
+Wire Wire Line
+  2500 31750 2900 31750
+Wire Wire Line
+  2150 30450 3650 30450
+Wire Wire Line
+  3650 30500 3650 30400
+Wire Wire Line
+  2500 31750 2500 30450
+Wire Wire Line
+  2150 30750 2150 30450
+Wire Wire Line
+  3550 30500 3550 30450
+Wire Wire Line
+  2050 30100 4250 30100
+Wire Wire Line
+  2000 31450 2900 31450
+Wire Wire Line
+  4100 30000 4250 30000
+Wire Wire Line
+  2050 31450 2050 30100
+Wire Wire Line
+  4100 30100 4100 29950
+Wire Wire Line
+  2000 31650 2900 31650
+Wire Wire Line
+  1000 32850 4550 32850
+Wire Wire Line
+  3650 32850 3650 32800
+Wire Wire Line
+  1700 32850 1700 32000
+Wire Wire Line
+  1000 32850 1000 32800
+Wire Wire Line
+  4550 32900 4550 30450
+Wire Wire Line
+  3550 32850 3550 32800
+Wire Wire Line
+  1000 31500 1400 31500
+Wire Wire Line
+  1000 31600 1400 31600
+Wire Wire Line
+  1000 32500 1000 31500
+Wire Wire Line
+  2000 31550 2900 31550
+Wire Wire Line
+  1350 28500 1500 28500
+Wire Wire Line
+  1350 28900 1350 28250
+Wire Wire Line
+  1500 28550 1500 28500
+Wire Wire Line
+  1000 28600 1250 28600
+Wire Wire Line
+  1000 29250 1000 28600
+Wire Wire Line
+  1250 28600 1250 28250
+Wire Wire Line
+  1350 29250 1500 29250
+Wire Wire Line
+  1350 29300 1350 29200
+Wire Wire Line
+  1500 29250 1500 28850
+Wire Wire Line
+  6050 32450 6500 32450
+Wire Wire Line
+  6500 32500 6500 32400
+Wire Wire Line
+  6050 32500 6050 32450
+Wire Wire Line
+  5600 32500 5600 32450
+Wire Wire Line
+  5600 32850 6500 32850
+Wire Wire Line
+  5600 32900 5600 32800
+Wire Wire Line
+  6500 32850 6500 32800
+Wire Wire Line
+  6050 32850 6050 32800
+Wire Wire Line
+  7000 32550 7000 32500
+Wire Wire Line
+  7000 32900 7000 32850
+Wire Wire Line
+  2150 28950 2150 28900
+Wire Wire Line
+  2150 29300 2150 29250
+Wire Wire Line
+  7850 30200 7900 30200
+Wire Wire Line
+  8750 30200 9150 30200
+Wire Wire Line
+  7600 29500 7650 29500
+Wire Wire Line
+  7600 30050 7600 29500
+Wire Wire Line
+  10750 31900 10900 31900
+Wire Wire Line
+  10850 32250 10850 31900
+Wire Wire Line
+  8200 30200 8450 30200
+Wire Wire Line
+  11200 31900 12150 31900
+Wire Wire Line
+  11250 32400 11300 32400
+Wire Wire Line
+  12150 31950 12150 31900
+Wire Wire Line
+  11250 32400 11250 31900
+Wire Wire Line
+  7950 29500 8600 29500
+Wire Wire Line
+  8600 29950 8600 29500
+Wire Wire Line
+  9750 29550 10150 29550
+Wire Wire Line
+  10000 29550 10000 29500
+Wire Wire Line
+  9850 29600 9850 29550
+Wire Wire Line
+  10050 29600 10050 29550
+Wire Wire Line
+  10150 29600 10150 29550
+Wire Wire Line
+  9750 29600 9750 29550
+Wire Wire Line
+  9750 32850 10850 32850
+Wire Wire Line
+  9750 32900 9750 32800
+Wire Wire Line
+  10850 32850 10850 32550
+Wire Wire Line
+  11800 32300 12150 32300
+Wire Wire Line
+  12150 32350 12150 32250
+Wire Wire Line
+  7700 28450 8150 28450
+Wire Wire Line
+  8150 28500 8150 28400
+Wire Wire Line
+  7700 28500 7700 28450
+Wire Wire Line
+  7700 28850 8150 28850
+Wire Wire Line
+  8150 28900 8150 28800
+Wire Wire Line
+  7700 28850 7700 28800
+Wire Wire Line
+  1850 25950 2050 25950
+Wire Wire Line
+  1850 26000 1850 25950
+Wire Wire Line
+  2050 25950 2050 25900
+Wire Wire Line
+  2250 26000 2250 25900
+Wire Wire Line
+  2450 25950 2650 25950
+Wire Wire Line
+  2450 25950 2450 25900
+Wire Wire Line
+  2650 26000 2650 25950
+Wire Wire Line
+  1600 25950 1600 25600
+Wire Wire Line
+  1000 25250 2250 25250
+Wire Wire Line
+  1600 25300 1600 25250
+Wire Wire Line
+  2250 25450 2250 25250
+Wire Wire Line
+  1450 25300 1450 25250
+Wire Wire Line
+  1000 25300 1000 25250
+Wire Wire Line
+  1550 25250 1550 25200
+Wire Wire Line
+  1000 25950 1000 25600
+Wire Wire Line
+  950 24550 1350 24550
+Wire Wire Line
+  1100 24600 1100 24550
+Wire Wire Line
+  1350 24550 1350 24500
+Wire Wire Line
+  950 24550 950 24500
+Wire Wire Line
+  1150 24550 1150 24500
+Wire Wire Line
+  3150 26450 3150 26400
+Wire Wire Line
+  1900 23400 2650 23400
+Wire Wire Line
+  2650 23400 2650 23300
+Wire Wire Line
+  1200 22550 2650 22550
+Wire Wire Line
+  1200 22600 1200 22500
+Wire Wire Line
+  2650 23000 2650 22550
+Wire Wire Line
+  1250 23200 1500 23200
+Wire Wire Line
+  1250 23000 2250 23000
+Wire Wire Line
+  1900 23200 2250 23200
+Wire Wire Line
+  2250 23200 2250 22900
+Wire Wire Line
+  1250 23200 1250 23000
+Wire Wire Line
+  1900 23300 2300 23300
+Wire Wire Line
+  1150 22950 2300 22950
+Wire Wire Line
+  1150 23300 1500 23300
+Wire Wire Line
+  2300 23300 2300 22950
+Wire Wire Line
+  1150 23650 1150 22950
+Wire Wire Line
+  1200 23600 1500 23600
+Wire Wire Line
+  1200 23600 1200 22900
+Wire Wire Line
+  3300 22600 4100 22600
+Wire Wire Line
+  3300 22650 3300 22550
+Wire Wire Line
+  4100 22650 4100 22600
+Wire Wire Line
+  3300 23600 4100 23600
+Wire Wire Line
+  3300 23650 3300 22950
+Wire Wire Line
+  4100 23600 4100 23550
+Wire Notes Line
+  800 26950 7200 26950
+Wire Notes Line
+  800 33250 7200 33250
+Wire Notes Line
+  800 33250 800 26950
+Wire Notes Line
+  7200 33250 7200 26950
+Wire Notes Line
+  7300 28050 12350 28050
+Wire Notes Line
+  7300 33250 12350 33250
+Wire Notes Line
+  7300 33250 7300 28050
+Wire Notes Line
+  12350 33250 12350 28050
+Wire Notes Line
+  800 24100 3500 24100
+Wire Notes Line
+  800 26800 3500 26800
+Wire Notes Line
+  800 26800 800 24100
+Wire Notes Line
+  3500 26800 3500 24100
+Wire Notes Line
+  800 22150 2800 22150
+Wire Notes Line
+  800 24000 2800 24000
+Wire Notes Line
+  800 24000 800 22150
+Wire Notes Line
+  2800 24000 2800 22150
+Wire Notes Line
+  2900 22200 4550 22200
+Wire Notes Line
+  2900 24000 4550 24000
+Wire Notes Line
+  2900 24000 2900 22200
+Wire Notes Line
+  4550 24000 4550 22200
+Text Label 2900 31550 2 40 ~
+D+
+Text Label 4300 31300 0 40 ~
+ESP-RX
+Text Label 1400 31600 2 40 ~
+VBUS
+Text Label 4300 31100 0 40 ~
+RTS_ECI
+Text Label 4300 31500 0 40 ~
+DTR_ECI
+Text Label 2900 31650 2 40 ~
+USB-N
+Text Label 4300 31200 0 40 ~
+ESP-TX
+Text Label 1550 27600 0 40 ~
+D+
+Text Label 1350 28250 3 40 ~
+SHIELD
+Text Label 1550 27500 0 40 ~
+VBUS
+Text Label 1550 27700 0 40 ~
+USB-N
+Text Label 9150 31500 2 40 ~
+PC-SET
+Text Label 9150 30300 2 40 ~
+c
+Text Label 9150 30600 2 40 ~
+PC-RX
+Text Label 9150 30200 2 40 ~
+EN
+Text Label 9150 31000 2 40 ~
+pwm2_timer
+Text Label 9150 31700 2 40 ~
+ESP-RX
+Text Label 9150 31100 2 40 ~
+pwm1_timer
+Text Label 9150 31200 2 40 ~
+pwm0_timer
+Text Label 9150 30800 2 40 ~
+H-I2C_sda
+Text Label 8450 30200 2 40 ~
+RTS_ECI
+Text Label 9150 31600 2 40 ~
+PC-RESET
+Text Label 7600 30050 1 40 ~
+DTR_ECI
+Text Label 9150 30700 2 40 ~
+PC-TX
+Text Label 7600 30350 3 40 ~
+c
+Text Label 9150 30900 2 40 ~
+H-I2C_scl
+Text Label 9150 31800 2 40 ~
+ESP-TX
+Text Label 2650 26300 3 40 ~
+pwm2_timer
+Text Label 2250 26300 3 40 ~
+pwm1_timer
+Text Label 1850 26300 3 40 ~
+pwm0_timer
+Text Label 1000 25600 3 40 ~
+H-I2C_sda
+Text Label 1600 25600 3 40 ~
+H-I2C_scl
+Text Label 1800 24800 0 40 ~
+PC-RX
+Text Label 1800 24550 0 40 ~
+ESP-RX
+Text Label 2400 24800 0 40 ~
+ESP-TX
+Text Label 2400 24550 0 40 ~
+PC-TX
+Text Label 3300 26000 0 40 ~
+EN
+Text Label 1800 24300 0 40 ~
+c
+Text Label 1500 23600 2 40 ~
+PC-SET
+Text Label 1900 23500 0 40 ~
+PC-RX
+Text Label 1900 23400 0 40 ~
+PC-RESET
+Text Label 1900 23600 0 40 ~
+PC-TX
+Text Label 3750 23150 2 40 ~
+H-I2C_sda
+Text Label 3750 23050 2 40 ~
+H-I2C_scl
+Text Label 800 26950 0 40 ~
+power
+Text Label 7300 28050 0 40 ~
+proc
+Text Label 800 22150 0 40 ~
+particle-counter
+Text Label 2900 22200 0 40 ~
+hum
+Connection ~ 3650 30450
+Connection ~ 2500 30450
+Connection ~ 3550 30450
+Connection ~ 4100 30100
+Connection ~ 2050 31450
+Connection ~ 4100 30000
+Connection ~ 3650 32850
+Connection ~ 1700 32850
+Connection ~ 4550 32850
+Connection ~ 3550 32850
+Connection ~ 1000 31600
+Connection ~ 1350 28500
+Connection ~ 1350 29250
+Connection ~ 6500 32450
+Connection ~ 5600 32850
+Connection ~ 6050 32850
+Connection ~ 10850 31900
+Connection ~ 11250 31900
+Connection ~ 10000 29550
+Connection ~ 9850 29550
+Connection ~ 10050 29550
+Connection ~ 9750 32850
+Connection ~ 12150 32300
+Connection ~ 8150 28450
+Connection ~ 8150 28850
+Connection ~ 1600 25250
+Connection ~ 1450 25250
+Connection ~ 1550 25250
+Connection ~ 1100 24550
+Connection ~ 1150 24550
+Connection ~ 1200 22550
+Connection ~ 2250 23000
+Connection ~ 1150 23300
+Connection ~ 3300 22600
+Connection ~ 3300 23600
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 5100 29950
+F 0 "" H 5100 29950 60 1 C CNN
+F 1 "P3V3" H 5000 30100 28 0 L CNN
+F 2 "" H 5100 29950 60 1 C CNN
+F 3 "" H 5100 29950 60 1 C CNN
+  1 5100 29950
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 3650 30350
+F 0 "" H 3650 30350 60 1 C CNN
+F 1 "P3V3" H 3550 30500 28 0 L CNN
+F 2 "" H 3650 30350 60 1 C CNN
+F 3 "" H 3650 30350 60 1 C CNN
+  1 3650 30350
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P5V0 #PWR?
+U 1 1 00000000
+P 4100 29900
+F 0 "" H 4100 29900 60 1 C CNN
+F 1 "P5V0" H 4000 30050 28 0 L CNN
+F 2 "" H 4100 29900 60 1 C CNN
+F 3 "" H 4100 29900 60 1 C CNN
+  1 4100 29900
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 4550 32950
+F 0 "" H 4550 32950 60 1 C CNN
+F 1 "gnd" H 4450 32800 28 0 L CNN
+F 2 "" H 4550 32950 60 1 C CNN
+F 3 "" H 4550 32950 60 1 C CNN
+  1 4550 32950
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 1000 29300
+F 0 "" H 1000 29300 60 1 C CNN
+F 1 "gnd" H 900 29150 28 0 L CNN
+F 2 "" H 1000 29300 60 1 C CNN
+F 3 "" H 1000 29300 60 1 C CNN
+  1 1000 29300
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 1350 29350
+F 0 "" H 1350 29350 60 1 C CNN
+F 1 "gnd" H 1250 29200 28 0 L CNN
+F 2 "" H 1350 29350 60 1 C CNN
+F 3 "" H 1350 29350 60 1 C CNN
+  1 1350 29350
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 6500 32350
+F 0 "" H 6500 32350 60 1 C CNN
+F 1 "P3V3" H 6400 32500 28 0 L CNN
+F 2 "" H 6500 32350 60 1 C CNN
+F 3 "" H 6500 32350 60 1 C CNN
+  1 6500 32350
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 5600 32400
+F 0 "" H 5600 32400 60 1 C CNN
+F 1 "P3V3" H 5500 32550 28 0 L CNN
+F 2 "" H 5600 32400 60 1 C CNN
+F 3 "" H 5600 32400 60 1 C CNN
+  1 5600 32400
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 5600 32950
+F 0 "" H 5600 32950 60 1 C CNN
+F 1 "gnd" H 5500 32800 28 0 L CNN
+F 2 "" H 5600 32950 60 1 C CNN
+F 3 "" H 5600 32950 60 1 C CNN
+  1 5600 32950
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P5V0 #PWR?
+U 1 1 00000000
+P 7000 32450
+F 0 "" H 7000 32450 60 1 C CNN
+F 1 "P5V0" H 6900 32600 28 0 L CNN
+F 2 "" H 7000 32450 60 1 C CNN
+F 3 "" H 7000 32450 60 1 C CNN
+  1 7000 32450
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 7000 32950
+F 0 "" H 7000 32950 60 1 C CNN
+F 1 "gnd" H 6900 32800 28 0 L CNN
+F 2 "" H 7000 32950 60 1 C CNN
+F 3 "" H 7000 32950 60 1 C CNN
+  1 7000 32950
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P5V0 #PWR?
+U 1 1 00000000
+P 2150 28850
+F 0 "" H 2150 28850 60 1 C CNN
+F 1 "P5V0" H 2050 29000 28 0 L CNN
+F 2 "" H 2150 28850 60 1 C CNN
+F 3 "" H 2150 28850 60 1 C CNN
+  1 2150 28850
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 2150 29350
+F 0 "" H 2150 29350 60 1 C CNN
+F 1 "gnd" H 2050 29200 28 0 L CNN
+F 2 "" H 2150 29350 60 1 C CNN
+F 3 "" H 2150 29350 60 1 C CNN
+  1 2150 29350
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 10000 29450
+F 0 "" H 10000 29450 60 1 C CNN
+F 1 "P3V3" H 9900 29600 28 0 L CNN
+F 2 "" H 10000 29450 60 1 C CNN
+F 3 "" H 10000 29450 60 1 C CNN
+  1 10000 29450
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 9750 32950
+F 0 "" H 9750 32950 60 1 C CNN
+F 1 "gnd" H 9650 32800 28 0 L CNN
+F 2 "" H 9750 32950 60 1 C CNN
+F 3 "" H 9750 32950 60 1 C CNN
+  1 9750 32950
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 12150 32400
+F 0 "" H 12150 32400 60 1 C CNN
+F 1 "gnd" H 12050 32250 28 0 L CNN
+F 2 "" H 12150 32400 60 1 C CNN
+F 3 "" H 12150 32400 60 1 C CNN
+  1 12150 32400
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 8150 28350
+F 0 "" H 8150 28350 60 1 C CNN
+F 1 "P3V3" H 8050 28500 28 0 L CNN
+F 2 "" H 8150 28350 60 1 C CNN
+F 3 "" H 8150 28350 60 1 C CNN
+  1 8150 28350
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 8150 28950
+F 0 "" H 8150 28950 60 1 C CNN
+F 1 "gnd" H 8050 28800 28 0 L CNN
+F 2 "" H 8150 28950 60 1 C CNN
+F 3 "" H 8150 28950 60 1 C CNN
+  1 8150 28950
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 1550 25150
+F 0 "" H 1550 25150 60 1 C CNN
+F 1 "P3V3" H 1450 25300 28 0 L CNN
+F 2 "" H 1550 25150 60 1 C CNN
+F 3 "" H 1550 25150 60 1 C CNN
+  1 1550 25150
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 1100 24650
+F 0 "" H 1100 24650 60 1 C CNN
+F 1 "gnd" H 1000 24500 28 0 L CNN
+F 2 "" H 1100 24650 60 1 C CNN
+F 3 "" H 1100 24650 60 1 C CNN
+  1 1100 24650
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P5V0 #PWR?
+U 1 1 00000000
+P 3150 26350
+F 0 "" H 3150 26350 60 1 C CNN
+F 1 "P5V0" H 3050 26500 28 0 L CNN
+F 2 "" H 3150 26350 60 1 C CNN
+F 3 "" H 3150 26350 60 1 C CNN
+  1 3150 26350
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 1200 22450
+F 0 "" H 1200 22450 60 1 C CNN
+F 1 "P3V3" H 1100 22600 28 0 L CNN
+F 2 "" H 1200 22450 60 1 C CNN
+F 3 "" H 1200 22450 60 1 C CNN
+  1 1200 22450
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P5V0 #PWR?
+U 1 1 00000000
+P 2250 22850
+F 0 "" H 2250 22850 60 1 C CNN
+F 1 "P5V0" H 2150 23000 28 0 L CNN
+F 2 "" H 2250 22850 60 1 C CNN
+F 3 "" H 2250 22850 60 1 C CNN
+  1 2250 22850
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 1150 23700
+F 0 "" H 1150 23700 60 1 C CNN
+F 1 "gnd" H 1050 23550 28 0 L CNN
+F 2 "" H 1150 23700 60 1 C CNN
+F 3 "" H 1150 23700 60 1 C CNN
+  1 1150 23700
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:P3V3 #PWR?
+U 1 1 00000000
+P 3300 22500
+F 0 "" H 3300 22500 60 1 C CNN
+F 1 "P3V3" H 3200 22650 28 0 L CNN
+F 2 "" H 3300 22500 60 1 C CNN
+F 3 "" H 3300 22500 60 1 C CNN
+  1 3300 22500
+  1 0 0 -1
+$EndComp
+$Comp
+L project_symbols:gnd #PWR?
+U 1 1 00000000
+P 3300 23700
+F 0 "" H 3300 23700 60 1 C CNN
+F 1 "gnd" H 3200 23550 28 0 L CNN
+F 2 "" H 3300 23700 60 1 C CNN
+F 3 "" H 3300 23700 60 1 C CNN
+  1 3300 23700
+  1 0 0 -1
+$EndComp
+$EndSCHEMATC

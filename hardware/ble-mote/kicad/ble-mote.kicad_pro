@@ -399,10 +399,7 @@
         "microvia_diameter": 0.01,
         "microvia_drill": 0.0,
         "name": "USB",
-        "nets": [
-          "D+",
-          "USB-N"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.224,
